@@ -14,6 +14,3 @@ This is a page to describe the various types of racing cars.
  page*
 
 **this is a bolded version of this page**
-
-
-
