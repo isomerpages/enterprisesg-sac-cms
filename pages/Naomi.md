@@ -28,7 +28,7 @@ description: ""
 | Cat | Dog | Bird |
 | -------- | -------- | -------- |
 |Ragdoll     |Poodle     |Parrot     |
-|Maine Coon | Pomeranian | Chicken     |
+|Maine Coon     | Pug     | Chicken     |
 
 
 
