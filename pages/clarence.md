@@ -3,7 +3,7 @@ title: clarence
 permalink: /clarence/
 description: ""
 ---
-yo wassup, this is mine :joy: :wink:
+yo wassup, this is mine :joy:
 
 **this is isomer test page**
 
