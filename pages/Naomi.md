@@ -28,8 +28,8 @@ description: ""
 | Cat | Dog | Bird |
 | -------- | -------- | -------- |
 |Ragdoll     |Poodle     |Parrot     |
-|Maine Coon     | Pug     | Chicken     |
-|  |  |
+| Maine Coon     | Pug     | Chicken     |
+|Tiger  |Wolf |Pheonix |
 
 
 ***
