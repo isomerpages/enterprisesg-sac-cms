@@ -28,11 +28,12 @@ description: ""
 | Cat | Dog | Bird |
 | -------- | -------- | -------- |
 |Ragdoll     |Poodle     |Parrot     |
-|Maine Coon | Pomeranian | Chicken
+|Maine Coon | Pomeranian | Chicken     |
 
 
 
 ***
+
 ![AAD Group Photo_Jan2023]()
 
 ***
