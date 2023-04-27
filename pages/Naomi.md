@@ -3,7 +3,7 @@ title: Naomi
 permalink: /naomilee/
 description: ""
 ---
-**Hi my name is Shazli**
+**Hi my name is Naomi**
 
 *this is a link*
 
@@ -11,7 +11,7 @@ description: ""
 
 ****
 
-**This is my page, my page is Shazli. **
+**This is my page, my page is Naomi. **
 *This is the italic version of my name*
 
 * This is a bulleted list. * * * This is a bulleted list. 
