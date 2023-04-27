@@ -33,10 +33,9 @@ description: ""
 
 
 ***
+
 Image
 ![AAD Group Photo_Jan2023](/images/aad%20group%20photo_jan2023.jpg)
-
-![AAD Group Photo_Jan 2023](/images/aad%20group%20photo_jan2023.jpg)
 
 ***
 
