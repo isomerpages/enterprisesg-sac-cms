@@ -51,4 +51,4 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.dc7rl6brx6vik.amplifyapp.com
 prod: https://master.dc7rl6brx6vik.amplifyapp.com
-resources_name: brochure
+resources_name: resources
