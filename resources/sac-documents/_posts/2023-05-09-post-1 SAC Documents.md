@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-  
 In this section, you will find the SAC publications relating to its programmes, which include the application forms, accreditation criteria documents, technical notes, checklists and other related information. The publications are available to download from the pages under this section.
 
 \* \[Certification Body Accreditation\](/resources/SAC-Documents/certification-body-accreditation)
