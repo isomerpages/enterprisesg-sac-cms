@@ -3,8 +3,11 @@ title: Our History
 permalink: /about/permalink/
 description: ""
 ---
-
   
+######################################################################################
+# COMMENT: Edit the data below to edit the list of milestones for this page #
+######################################################################################
+
 milestone:
   - title: 1986-1990
     years:
