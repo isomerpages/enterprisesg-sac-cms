@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-  
 ### General Conditions for Use of SAC Accreditation Marks
 
 !\[SAC Accreditation Marks\]({{page.imgFolderPath}}SAC-accreditation-marks.jpg)
