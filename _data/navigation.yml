@@ -7,4 +7,6 @@ links:
   - title: Example Folder
     collection: example-folder
   - title: Industries
-    collection: about
+    collection: industries
+  - title: Resources - Test
+    resource_room: true
