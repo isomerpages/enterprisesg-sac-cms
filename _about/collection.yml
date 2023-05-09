@@ -2,5 +2,6 @@ collections:
   about:
     output: true
     order:
+      - Our History.md
       - Our Vision Mission and Strategic Outcomes.md
       - Our Role.md
