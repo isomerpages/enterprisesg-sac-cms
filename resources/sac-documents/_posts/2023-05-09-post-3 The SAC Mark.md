@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-  
 !\[SAC Marks\](/images/about/SAC-logos.jpg)
 
 ## The SAC Logo – Our Most important brand asset
