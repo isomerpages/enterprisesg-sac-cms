@@ -3,7 +3,7 @@ title: Our Vision Mission and Strategic Outcomes
 permalink: /about/permalink/
 description: ""
 ---
-\## Vision
+## Vision
 Choice partner for assurance of quality products, services and enterprises
 
 ## Misson
