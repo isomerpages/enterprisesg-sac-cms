@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Benefits of Accreditation.md
       - About Accreditation.md
       - Collaborations And Recognitions.md
       - Our Organisation and Structure.md
