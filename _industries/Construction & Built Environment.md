@@ -41,4 +41,4 @@ The following SAC accreditation schemes are applicable to the Construction and B
 |-----------------------------------------|------------------------------------------------|
 | Personnel Certification Bodies          | Certified Personnel (NDT)                      |
 
-For more information on CABs which provide services relevant to your business, please click \[here\](/services/accreditation-services).
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
