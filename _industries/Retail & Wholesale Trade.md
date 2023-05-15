@@ -3,7 +3,7 @@ title: Retail & Wholesale Trade
 permalink: /industries/retail-wholesale-trade/
 description: ""
 ---
-!\[Retail / Wholesale Trade\](/images/industries/retail-and-wholesale-trade.jpg)
+![Retail / Wholesale Trade](/images/industries/retail-and-wholesale-trade.jpg)
 
 The retail and wholesale trade industries span a wide range of businesses. They include both business-to-business and business-to-consumer companies.
 
