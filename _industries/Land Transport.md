@@ -3,7 +3,7 @@ title: Land Transport
 permalink: /industries/land-transport/
 description: ""
 ---
-!\[Land Transport\](/images/industries/landtransport2.jpg)
+![Land Transport](/images/industries/landtransport2.jpg)
 
 The land transport industry comprises the rail and automotive transport systems, as well as road vehicles. It is a key component of Singapore's infrastructure. Emerging trends now include the development of autonomous and electric vehicles, as well as data analytics for commuter travel patterns, as major parts of the industry. Technology is also impacting the ways in which infrastructure is maintained, by enabling predictive maintenance and increasing workplace safety. 
 
