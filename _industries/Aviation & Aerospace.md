@@ -3,7 +3,7 @@ title: Aviation & Aerospace
 permalink: /industries/aviation-and-aerospace/
 description: ""
 ---
-!\[Aviation & Aerospace Industries\](/images/industries/aviation-and-aerospace.jpg)
+![Aviation & Aerospace Industries](/images/industries/aviation-and-aerospace.jpg)
 
 Singapore's aerospace industry has grown exponentially with the rise of global air travel and the accompanying technological advancements. It accounts for about a quarter of Asia’s MRO (Maintenance, Repair and Overhaul) output. 
 
