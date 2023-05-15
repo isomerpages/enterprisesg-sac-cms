@@ -2,8 +2,7 @@ collections:
   resources:
     output: true
     order:
-      - Frequently Asked Questions (FAQ).md
-      - How to use SAC, ILAC, IAF Marks.md
+      - Brochures.md
       - SAC Documents/.keep
       - SAC Documents/Overview.md
       - SAC Documents/Certification Body Accreditation.md
@@ -12,4 +11,5 @@ collections:
       - SAC Documents/Good Laboratory Practice Registration Scheme.md
       - SAC Documents/Proficiency Testing Providers.md
       - SAC Documents/Validation and Verification Body Accreditation.md
-      - Brochures.md
+      - How to use SAC, ILAC, IAF Marks.md
+      - Frequently Asked Questions (FAQ).md
