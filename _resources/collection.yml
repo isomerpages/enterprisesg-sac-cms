@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - SAC Documents/Inspection Body Accreditation.md
       - SAC Documents/Good Laboratory Practice Registration Scheme.md
       - SAC Documents/Proficiency Testing Providers.md
       - SAC Documents/Validation and Verification Body Accreditation.md
