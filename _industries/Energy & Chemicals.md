@@ -3,7 +3,7 @@ title: Energy & Chemicals
 permalink: /industries/energy-and-chemicals/
 description: ""
 ---
-!\[Energy & Chemicals\](/images/industries/energy-and-chemicals.jpg)
+![Energy & Chemicals](/images/industries/energy-and-chemicals.jpg)
 
 Singapore is one of the world's leading chemical hubs: over 100 global chemical firms conduct major operations in the country, and it is among the largest refinery export hubs and chemical exporters worldwide. Singapore's chemicals industry is expected to reach $12.7 billion in value-add by 2025.
 
