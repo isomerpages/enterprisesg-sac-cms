@@ -1,5 +1,0 @@
-collections:
-  test-folder:
-    output: true
-    order:
-      - Sub menu folder/.keep
