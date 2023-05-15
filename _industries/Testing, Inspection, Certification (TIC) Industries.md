@@ -15,4 +15,3 @@ The SMF-TIC Interest Group (IG), Singapore Accreditation Council (SAC) and Enter
 
 [Best Practices for conducting remote assessments-Audits](/files/documents/Best-Practices.pdf){:target="_blank"}
 
-\* \[Best Practices for conducting remote assessments-Audits\](/files/documents/Best-Practices.pdf){:target="\_blank"}
