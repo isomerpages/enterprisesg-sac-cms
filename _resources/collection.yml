@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - SAC Documents/Validation and Verification Body Accreditation.md
       - SAC Documents/Overview.md
       - SAC Documents/.keep
       - Brochures.md
