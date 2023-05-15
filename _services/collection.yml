@@ -2,8 +2,8 @@ collections:
   services:
     output: true
     order:
+      - Accreditation Services/.keep
+      - Accreditation Services/Overview.md
+      - Accreditation Services/Auditing Organisations.md
       - Accreditation Services/Product Certification Bodies.md
       - Accreditation Services/Management System Certification Bodies.md
-      - Accreditation Services/Auditing Organisations.md
-      - Accreditation Services/Overview.md
-      - Accreditation Services/.keep
