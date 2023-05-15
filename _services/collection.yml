@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Accreditation Services/Laboratories.md
       - Accreditation Services/Inspection Bodies.md
       - Accreditation Services/Proficiency Testing Providers.md
       - Accreditation Services/Validation and Verification Bodies.md
