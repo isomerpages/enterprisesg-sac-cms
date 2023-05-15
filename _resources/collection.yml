@@ -2,6 +2,7 @@ collections:
   resources:
     output: true
     order:
+      - How to use SAC, ILAC, IAF Marks.md
       - SAC Documents/.keep
       - SAC Documents/Overview.md
       - SAC Documents/Certification Body Accreditation.md
