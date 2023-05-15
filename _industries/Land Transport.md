@@ -36,4 +36,4 @@ The following SAC accreditation schemes are applicable to the Land Transport ind
 |                                  | Occupational Safety & Health Management System |
 |                                  | Quality Management System                      |
 
-For more information on CABs which provide services relevant to your business, please click \[here](/services/accreditation-services).
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
