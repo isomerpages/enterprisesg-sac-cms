@@ -41,4 +41,4 @@ The following SAC Accreditation Schemes are applicable to the Precision Engineer
 |                                                 | Occupational Safety & Health Management System           |
 |                                                 | Quality Management System                                |
 
-For more information on CABs which provide services relevant to your business, please click \[here\](/services/accreditation-services).
+For more information on CABs which provide services relevant to your business, please click [here](/services/accreditation-services).
