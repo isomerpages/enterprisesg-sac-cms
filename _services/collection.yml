@@ -2,8 +2,6 @@ collections:
   services:
     output: true
     order:
-      - Extended Surveillance Initiative.md
-      - Training, Courses & Seminars.md
       - Accreditation Services/.keep
       - Accreditation Services/Overview.md
       - Accreditation Services/Auditing Organisations.md
@@ -17,3 +15,5 @@ collections:
       - Accreditation Services/GLP Compliance Monitoring.md
       - Accreditation Services/Apply for Accreditation.md
       - Accreditation Services/Other Accreditation Schemes.md
+      - Training, Courses & Seminars.md
+      - Extended Surveillance Initiative.md
