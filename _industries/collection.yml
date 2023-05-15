@@ -2,6 +2,8 @@ collections:
   industries:
     output: true
     order:
+      - Testing, Inspection, Certification (TIC) Industries.md
+      - Aviation & Aerospace.md
       - Construction & Built Environment.md
       - Digital & ICT.md
       - Electrical & Electronics Engineering.md
@@ -13,6 +15,4 @@ collections:
       - Logistics.md
       - Marine & Offshore Engineering.md
       - Precision Engineering & Industry 40.md
-      - Testing, Inspection, Certification (TIC) Industries.md
-      - Aviation & Aerospace.md
       - Retail & Wholesale Trade.md
