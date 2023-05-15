@@ -3,7 +3,7 @@ title: Logistics
 permalink: /industries/logistics/
 description: ""
 ---
-!\[Logistics\](/images/industries/logistics.jpg)
+![Logistics](/images/industries/logistics.jpg)
 
 Singapore is a leading logistics and supply chain management hub in the Asia Pacific region. In addition, the logistics industry is a key driver of the local economy. Singapore is the premier global hub port and international maritime centre, with more than 1,000 tonnes of cargo being handled every minute. In 2017, the logistics industry contributed 7% of the country's GDP, and demand for supply chain management services is enabling logistics companies to develop a range of capabilities across various verticals.
 
