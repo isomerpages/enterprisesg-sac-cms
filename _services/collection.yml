@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Accreditation Services/Apply for Accreditation.md
       - Accreditation Services/Other Accreditation Schemes.md
       - Accreditation Services/.keep
       - Accreditation Services/Overview.md
