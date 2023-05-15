@@ -3,7 +3,7 @@ title: Marine & Offshore Engineering
 permalink: /industries/marine-and-offshore-engineering/
 description: ""
 ---
-!\[Marine and Offshore Engineering Industry\](/images/industries/marine.jpg)
+![Marine and Offshore Engineering Industry](/images/industries/marine.jpg)
 
 Singapore is a global offshore and marine hub, with strong growth prospects for Marine and Offshore (M&O) engineering companies. Singapore businesses service worldwide demand for ship repair, shipbuilding, rig-building and offshore engineering. In addition, there is a thriving business in oilfield equipment manufacturing, as well as the building and chartering of offshore supply vessels.
 
