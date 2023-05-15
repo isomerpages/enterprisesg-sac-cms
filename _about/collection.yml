@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Our Organisation And Structure/Overview.md
       - Our Organisation And Structure/SAC Council.md
       - Our Organisation And Structure/Council Committees.md
       - Our Organisation And Structure/Laboratory Technical committees.md
