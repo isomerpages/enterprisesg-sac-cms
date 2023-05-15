@@ -2,5 +2,6 @@ collections:
   services:
     output: true
     order:
+      - Accreditation Services/Auditing Organisations.md
       - Accreditation Services/Overview.md
       - Accreditation Services/.keep
