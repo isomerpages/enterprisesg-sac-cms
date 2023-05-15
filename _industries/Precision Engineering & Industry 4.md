@@ -10,7 +10,7 @@ permalink: /industries/precision-engineering-and-industry-4
 collection\_name: industries
 ---
 
-!\[Precision Engineering Industry\](/images/industries/precision-engineering.jpg)
+![Precision Engineering Industry](/images/industries/precision-engineering.jpg)
 
 Precision engineering is the backbone that supports other industries, such as aerospace, oil and gas, medical devices, and electronics.
 The precision engineering industry can be segmented into modules and components as well as machinery and systems. Modules and components cover the design and assembly of semiconductor equipment and advanced machine tools. Machinery and systems, on the other hand, involves the production of key machine tools, as well as semiconductor and solar equipment manufacturing.
