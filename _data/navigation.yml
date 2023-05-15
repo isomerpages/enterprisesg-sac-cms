@@ -1,10 +1,16 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About
+    collection: about
   - title: Industries
     collection: industries
-  - title: Resources - Test
-    resource_room: true
+  - title: Services
+    collection: services
+  - title: Resources
+    collection: resources
+  - title: Media
+    collection: media
+  - title: Accredited Organisation
+    collection: accreditated-organisation
+  - title: Contact Us
+    url: /contact-us/
