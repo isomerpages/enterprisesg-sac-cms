@@ -2,6 +2,8 @@ collections:
   about:
     output: true
     order:
+      - Collaborations & Recognitions/Letter of Understanding & Memorandum of
+        Understanding.md
       - Collaborations & Recognitions/.keep
       - Collaborations & Recognitions/Overview.md
       - Collaborations & Recognitions/International Membership.md
