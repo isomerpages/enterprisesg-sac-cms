@@ -2,6 +2,7 @@ collections:
   about:
     output: true
     order:
+      - Collaborations & Recognitions/.keep
       - Our Role.md
       - Our Vision, Mission And Strategic Outcomes.md
       - Our History.md
