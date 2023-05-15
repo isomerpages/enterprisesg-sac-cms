@@ -2,12 +2,12 @@ collections:
   about:
     output: true
     order:
+      - Our Organisation And Structure/.keep
       - Our Organisation And Structure/Overview.md
       - Our Organisation And Structure/SAC Council.md
       - Our Organisation And Structure/Council Committees.md
-      - Our Organisation And Structure/Laboratory Technical committees.md
       - Our Organisation And Structure/Inspection Body Technical Committees.md
-      - Our Organisation And Structure/.keep
+      - Our Organisation And Structure/Laboratory Technical committees.md
       - Our Role.md
       - Our Vision, Mission And Strategic Outcomes.md
       - Our History.md
