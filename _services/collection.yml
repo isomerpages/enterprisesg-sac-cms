@@ -2,6 +2,7 @@ collections:
   services:
     output: true
     order:
+      - Extended Surveillance Initiative.md
       - Training, Courses & Seminars.md
       - Accreditation Services/.keep
       - Accreditation Services/Overview.md
