@@ -3,7 +3,7 @@ title: Environment & Sustainability
 permalink: /industries/environment-and-sustainability/
 description: ""
 ---
-!\[Environment & Sustainability\](/images/industries/environment-and-sustainability.jpg)
+![Environment & Sustainability](/images/industries/environment-and-sustainability.jpg)
 
 There is an increasing emphasis on sustainability across different industries on a global level. Innovation and technology are driving forces in the development of long-term sustainable solutions, which are needed to overcome challenges in resource availability.
 
