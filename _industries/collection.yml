@@ -2,5 +2,6 @@ collections:
   industries:
     output: true
     order:
+      - Retail & Wholesale Trade.md
       - Testing, Inspection, Certification (TIC) Industries.md
       - Aviation & Aerospace.md
