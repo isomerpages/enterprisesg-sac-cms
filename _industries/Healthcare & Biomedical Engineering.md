@@ -3,7 +3,7 @@ title: Healthcare & Biomedical Engineering
 permalink: /industries/healthcare-and-biomedical-engineering/
 description: ""
 ---
-!\[Healthcare & Biomedical Engineering\](/images/industries/healthcare-and-biomedical-engineering.jpg)
+![Healthcare & Biomedical Engineering](/images/industries/healthcare-and-biomedical-engineering.jpg)
 
 The healthcare and biomedical industry includes pharmaceuticals, medical equipment, complementary health products, and more. Its related services sector is centered on the provision of healthcare in various forms, ranging from hospital stays to home nurses. Given the wide scope of the industry, the healthcare value chain consists of several stakeholders, each involved in various activities that may be product or service-oriented.
 
