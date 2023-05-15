@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Example Title.md
-      - About Accreditation.md
       - Our Role.md
       - Our Vision, Mission And Strategic Outcomes.md
+      - Our History.md
       - Collaborations And Recognitions.md
       - Our Organisation and Structure.md
-      - Our History.md
+      - About Accreditation.md
       - Benefits Of Accreditation.md
       - Join Us.md
