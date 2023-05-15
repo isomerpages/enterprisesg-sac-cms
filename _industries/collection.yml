@@ -2,6 +2,7 @@ collections:
   industries:
     output: true
     order:
+      - Digital & ICT.md
       - Electrical & Electronics Engineering.md
       - Energy & Chemicals.md
       - Environment & Sustainability.md
