@@ -1,0 +1,4 @@
+collections:
+  accreditated-organisation:
+    output: true
+    order: []
