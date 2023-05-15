@@ -3,7 +3,7 @@ title: Electrical & Electronics Engineering
 permalink: /industries/electrical-and-electronics-engineering/
 description: ""
 ---
-!\[Electrical & Electronics Engineering\](/images/industries/electrical-and-electronics-engineering.jpg)
+![Electrical & Electronics Engineering](/images/industries/electrical-and-electronics-engineering.jpg)
 
 Singapore is a hub for semiconductor and consumer electronics manufacturing technology, with over 2,900 companies in the industry. Upstream, these include semiconductor manufacturers and chip makers; Downstream, the local value-chain includes box-build manufacturers, sub-system manufacturers, and plastic tooling and metal machining providers.
 
@@ -36,4 +36,4 @@ The following SAC accreditation schemes are applicable to the Electronics & Elec
 |--------------------------------------------------------------------------------------------------|
 | Product Certification                           | PC (Electrical and Electronics)                |
 
-For more information on CABs which provide services relevant to your business, please click \[here\](/services/accreditation-services).
+For more information on CABs which provide services relevant to your business, please click[here](/services/accreditation-services).
