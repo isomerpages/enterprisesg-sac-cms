@@ -9,7 +9,7 @@ links:
   - title: Resources
     collection: resources
   - title: Media
-    collection: media
+    resource_room: true
   - title: Accredited Organisation
     collection: accredited-organisation
   - title: Contact Us
