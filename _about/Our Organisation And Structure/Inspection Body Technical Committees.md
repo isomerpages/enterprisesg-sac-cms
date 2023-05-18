@@ -13,8 +13,8 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| \*\*Chairman\*\* | Mr Chan Yew Kwong | Workplace Health & Safety Council |
-| \*\*Members\*\* | Mr Thomas Chong | Association of Process Industires |
+|  Chairman | Mr Chan Yew Kwong | Workplace Health & Safety Council |
+|  Members | Mr Thomas Chong | Association of Process Industires |
 | | Mr Ernest Phoon Chee Keong | Land Transport Authority |
 | | Mr Bernard Kwok | Ministry of Manpower |
 | | Prof Upadrasta Ramamurthy | Nanyang Technological University |
@@ -24,15 +24,15 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Edwin Yong | Singapore Police Force |
 | | Er. Yee Poh Kin | The Institution of Engineers, Singapore |
 | | Ms Michelle Ng | Waste Management and Recycling Association of Singapore |
-| \*\*Secretary\*\* | Mr James Lee | SAC Secretariat |
+| Secretary | Mr James Lee | SAC Secretariat |
 
 ## Structural Steelwork Inspection
 ### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| \*\*Chairman\*\* | Er Dr Tran Chi Trung  | Building and Construction Authority |
-| \*\*Members\*\* | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
+|  Chairman | Er Dr Tran Chi Trung  | Building and Construction Authority |
+|  Members | Mr Murugesu Sivakurmaran | Association of Consulting Engineers Singapore |
 | | Ms Ang Poh Cheng | Housing & Development Board |
 | | Mr Tang Pei Luen  | JTC Corporation |
 | | Mr Kenneth Liew | Land Transport Authority |
@@ -56,16 +56,16 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Capt Ismail Bin Mohamad | Singapore Maritime Academy |
 | | Capt Francis Lansakara | Singapore Nautical Institute |
 | | Mr Michael Phoon | Singapore Shipping Association |
-| \*\*Secretary\*\* | Mr James Lee | SAC Secretariat |
+|  Secretary\ | Mr James Lee | SAC Secretariat |
 
 ## Site Investigation
 ### Term : 1 July 2021 - 30 June 2024
 
 | Designation | Name | Organisation |
 |-------------|------|--------------|
-| \*\*Chairman\*\* | Er Jeyatharan Kumarasamy | Land Transport Authority (LTA)|
-| \*\*Deputy Chairman\*\* | Dr Poh Teoh Yaw | Building & Construction Authority (BCA) |
-| \*\*Members\*\* | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
+|  Chairman  | Er Jeyatharan Kumarasamy | Land Transport Authority (LTA)|
+|  Deputy Chairman | Dr Poh Teoh Yaw | Building & Construction Authority (BCA) |
+|  Members | Er Yong Fen Leong | Association of Consulting Engineers, Singapore |
 | | Mr Lionel Ang Loy Jin | Housing & Development Board (HDB)|
 | | Dr Chian Siau Chen, Darren | National University of Singapore |
 | | Ms  Prathipa Devi Sundraju | Singapore Manufacturing Federation |
@@ -73,4 +73,4 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Dr Muthusamy Karthikeyan | The Geotechnical Society of Singapore (GeoSS) |
 | | Mr Ting Hua Keong | The Institution of Engineers, Singapore (IES)|
 | | Mr Jeffrey Yu | The Singapore Contractors Association Ltd |
-| \*\*Secretary\*\* | Mr Lim Swee Peng | SAC Secretariat |
+|  Secretary | Mr Lim Swee Peng | SAC Secretariat |
