@@ -10,20 +10,19 @@ The SAC Council is the highest authority in the accreditation hierarchy. It comp
 
 #### Term of Office: 1 April 2021 - 31 March 2024
 
-\*\*Chairman\*\*
+**Chairman**
 
-![Tan Kai Hoe ](/images/about/our-organisation-structure/TanKaiHoe.jpg){: style="margin-left:0;width: 150px;"}
-
+![Tan Kai Hoe ](/images/about/our-organisation-structure/TanKaiHoe.jpg)
 <!-- Comment: the '{:style=""}' at the end of the markdown image syntax is used to align the image to the left of the screen and also to resize the image {: style="margin-left:0; width: 150px;"}  -->
 
-\*\*Mr Tan Kai Hoe\*\*\\\\
+**Mr Tan Kai Hoe**
 Accuron Technologies Limited 
 
 | Designation	| Name	| Organisation |
 |-------------|-------|--------------|
-| \*\*Deputy Chairmen\*\* | Mr Jagadish CV | Advanced Micro Foundry Pte Ltd |
+| **Deputy Chairmen** | Mr Jagadish CV | Advanced Micro Foundry Pte Ltd |
 | | Mr Amos Leong | MiRXES Pte Ltd |
-| \*\*Members\*\* | Pending | Association of Singapore Marine Industries (ASMI) |
+| **Members** | Pending | Association of Singapore Marine Industries (ASMI) |
 | | Er Thanabal Kaliannan<br>(Alternate: Er Lung Hian Hao) | Building and Construction Authority (BCA) |
 | | Dr Teo Tang Lin | Health Sciences Agency (HSA) |
 | | A/Prof Raymond Chua | Ministry of Health (MOH) |
@@ -45,4 +44,4 @@ Accuron Technologies Limited
 | | Mr Allan Lim | Individual Capacity (Food and Agriculture) |
 | | Mr Alex Budiman | Individual Capacity (Medical and Healthcare) |
 | | Mr Joseph Gan  | Individual Capacity (Digitalisation and Cybersecurity) |
-| \*\*Secretary\*\* | Mr Tan Yee Teck | SAC Secretariat |
+| **Secretary** | Mr Tan Yee Teck | SAC Secretariat |
