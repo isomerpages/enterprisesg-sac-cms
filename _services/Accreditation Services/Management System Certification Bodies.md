@@ -4,7 +4,7 @@ permalink: /services/accreditation-services/management-system-certification-bodi
 description: ""
 third_nav_title: Accreditation Services
 ---
-\## About
+## About
 
 Accreditation is an endorsement of a certification body's independence, integrity and technical competence. Most importantly, accreditation provides a certification body with a trust mark and confidence to offer its services nationally and globally.
 
@@ -87,4 +87,4 @@ Upon receiving the application for accreditation, qualified assessors are assign
 The detailed description of the accreditation process can be seen below:  
 !\[Accreditation Process\](/images/services/sac-accreditation-process-flowchart.jpg) 
 
-Upon fulfilling the basic requirements, the CAB can apply online through the \[SACINET website\](https://sacinet2.enterprisesg.gov.sg){:target="\_blank"}.
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg){:target="_blank"}.
