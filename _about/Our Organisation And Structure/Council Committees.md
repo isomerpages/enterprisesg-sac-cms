@@ -4,7 +4,6 @@ permalink: /about/our-organisation-and-structure/council-committees/
 description: ""
 third_nav_title: Our Organisation And Structure
 ---
-  
 There are 5 Council Committees supporting the SAC Council to oversee the various accreditation programmes.
 
 ---
@@ -14,9 +13,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation          | Name                       | Organisation                                 |
 |----------------------|----------------------------|----------------------------------------------|
-| \*\*Chairman\*\*         | Dr Leslie Retnam           | National University of Singapore      |       
-| \*\*Deputy Chairman\*\*  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
-| \*\*Members\*\*          | Mrs Reshmy Pillay          | National Metrology Centre   |  
+| Chairman       | Dr Leslie Retnam           | National University of Singapore      |       
+| Deputy Chairman  | A/P Joanne Chan Sheot Harn | Singapore Food Agency        |                
+|Members          | Mrs Reshmy Pillay          | National Metrology Centre   |  
 |                      | Mr Tony Low<br>(Alternate: Dr Steven Wong)  | Association of Information Security Professionals  |
 |                      | Dr Gao Chun Ping           | Building and Construction Authority    |   
 |                      | Mr Rodney Tan              | Cyber Security Agency of Singapore (CSA)  |                
@@ -28,7 +27,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Dr Zong Yun                | Singapore National Institute of Chemistry 
 |                      | Dr Ong Eng Hong            | Singapore University of Technology &amp; Design   
 |                      | Prof Chew Soon Hoe         | The Institute of Engineers, Singapore    |    
-| \*\*Secretary\*\*        | Ms Lim Lee Fang            | SAC Secretariat        |                      
+|Secretary        | Ms Lim Lee Fang            | SAC Secretariat        |                      
 
 
 ## Council Committee For Inspection (CCI)
@@ -36,8 +35,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation   | Name                         | Organisation                      |
 |---------------|------------------------------|-----------------------------------|
-| \*\*Chairman\*\*  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
-| \*\*Members\*\*   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
+| Chairman  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
+| Members   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Loh Lock Mun              | Association of Process Industry   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
 |               | Dr Poh Teoh Yaw &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Building &amp; Construction Authority |
@@ -46,16 +45,16 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Victor Li&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Singapore Food Agency             |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Adrian Lo &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Singapore Manufacturing Federation – TIC Interest Group |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Dr Ho Nyok Yong &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | The Singapore Contractors Association Ltd |
-| \*\*Secretary\*\* | Mr Tang Kok Min              | Singapore Accreditation Council   |
-
+| Secretary | Mr Tang Kok Min              | Singapore Accreditation Council   |
+]
 
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2021 - 30 June 2024
 
 | Designation    | Name                         | Organisation                                                  |
 |----------------|------------------------------|---------------------------------------------------------------|
-| \*\*Chairman\*\*   | Er Yvonne Soh                | Singapore Green Building Council                              |
-| \*\*Members\*\*    | Ms Huang Wen Jia             | Association of Process Industry                               |
+| Chairman   | Er Yvonne Soh                | Singapore Green Building Council                              |
+| Members    | Ms Huang Wen Jia             | Association of Process Industry                               |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Er. Steve Ang &nbsp; &nbsp;    &nbsp; &nbsp; &nbsp; &nbsp; | Building and Construction Authority &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |                | Prof Lim Kok Hua             | Institute of Engineers, Singapore                             |
 |                | Dr Chin Woon Hau             | Infocomm Media Development Authority                          |
@@ -71,15 +70,15 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                | Mr Sze Thiam Siong           | Singapore Manufacturing Federation - TIC Interest Group - Management System Certification Body  |
 |                | Ms Kavita Gandhi             | Sustainable Energy Association of Singapore                   |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Mr Desmond Hill &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | The Singapore Contractors Association Limited &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-| \*\*Secretary\*\*  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
+|  Secretary  | Ms Lee Ham Eng               | Singapore Accreditation Council                               |
 
 ## Council Committee for Business Development (CCBD)
 ### Term: 1 July 2021 - 30 June 2024
 
 | Designation          | Name                            | Organisation                              |
 |----------------------|---------------------------------|-------------------------------------------|
-| \*\*Chairman\*\*         | Mr Jagadish C V         | Singapore Accreditation Council |
-| \*\*Members\*\*          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
+|  Chairman         | Mr Jagadish C V         | Singapore Accreditation Council |
+| Members          | Mr Ling Ting Ming       | Association of Small Medium Enterprises |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Dr Eunice Pang &nbsp; &nbsp;      | Health Promotion Board  |
 |                      | Mr Wang Weixiang        | Ministry of Sustainability and the Environment |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Pending         &nbsp; &nbsp;     | Ministry of Trade and Industry  |
@@ -91,7 +90,7 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 |                      | Ms Miranda Chen         | TIC Interest Group (Certification)        |
 |                      | Mr Eric Law Wei Kwang   | TIC Interest Group (Laboratory)         
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Mr Gaurava Mishra       | TIC Interest Group (Laboratory, Inspection, Certification)&nbsp; |
-| \*\*Secretaries\*\*      | Mr Tan Yee Teck         | SAC Secretariat                  |
+| Secretaries      | Mr Tan Yee Teck         | SAC Secretariat                  |
 |                      | Mr Terence Hu           | SAC Secretariat                  |
 
 
@@ -100,8 +99,8 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 
 | Designation    | Name                       | Organisation                                  |
 |----------------|----------------------------|-----------------------------------------------|
-| \*\*Chairman\*\*   | A/Prof Raymond Chua        | Ministry of Health                            |
-| \*\*Members\*\*    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
+|  Chairman   | A/Prof Raymond Chua        | Ministry of Health                            |
+|  Members    | A/Prof Mahesh Choolani     | Academy of Medicine                           |
 |                | Prof Lisa Ng               | Biomedical Research Council, A\*STAR           |
 |                | Asst Prof James Leong      | Duke-NUS Medical School                       |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Teoh Yee Leong   &nbsp;  | Ministry of Health &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  |
@@ -114,4 +113,4 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | A/Prof Low Chian Ming    &nbsp; | Technical Committee for Good Laboratory Practice&nbsp;|
 |                | A/Prof Chong Bee Kiang	    | Technical Committee for Medical Imaging       |
 |                | A/Prof Raymond Lin	        | Technical Committee for Medical Testing       |
-| \*\*Secretary\*\*  | Ms Lee Jia Juan            | SAC Secretariat                               |
+|  Secretary  | Ms Lee Jia Juan            | SAC Secretariat                               |
