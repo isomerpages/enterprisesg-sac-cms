@@ -4,7 +4,7 @@ permalink: /services/accreditation-services/other-accreditation-schemes/
 description: ""
 third_nav_title: Accreditation Services
 ---
-\## About
+## About
 
 SAC will develop accreditation programmes that are required to support Singapore's strategic initiatives, such as market access, security, and safety and health.  
  
