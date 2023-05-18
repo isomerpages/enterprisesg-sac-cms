@@ -75,11 +75,11 @@ Asset Management (AM) | ISO/IEC 17021-1<br>ISO/IEC TS 17021-5<br>Applicable IAF 
 ### Benefits
 Accreditation will:
 
-* Increase confidence:
+* **Increase confidence**
 
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
-**International recognition**
+* **International recognition**
 
 As a member of the Multilateral Recognition Arrangement (MLA) for Quality Management System of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
