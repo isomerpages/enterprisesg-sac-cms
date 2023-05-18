@@ -42,7 +42,7 @@ There are 4 Technical Committees supporting the Inspection Body Accreditation sc
 | | Mr Wong Keam Tong  | Singapore Structural Steel Society |
 | | Mr Sze Thiam Siong | Singapore Welding Society |
 | | Mr Tan Yew Chai | The Institution of Engineers, Singapore |
-| \*\*Secretary\*\* | Mr Chong Yong Hui | SAC Secretariat |
+| Secretary | Mr Chong Yong Hui | SAC Secretariat |
 
 ## Cargo Inspection
 ### Term : 1 July 2021 - 30 June 2024
