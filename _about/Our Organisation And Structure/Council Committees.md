@@ -33,8 +33,9 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2021 - 30 June 2024
 
-| Designation   | Name                         | Organisation                      |
-|---------------|------------------------------|-----------------------------------|
+
+| Designation          | Name                       | Organisation                                 |
+|----------------------|----------------------------|----------------------------------------------|
 | Chairman  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
 | Members   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Loh Lock Mun              | Association of Process Industry   |
