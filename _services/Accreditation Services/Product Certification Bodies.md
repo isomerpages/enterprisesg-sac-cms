@@ -4,9 +4,9 @@ permalink: /services/accreditation-services/product-certification-bodies/
 description: ""
 third_nav_title: Accreditation Services
 ---
-\## About the Scheme
+## About the Scheme
 
-!\[Product Certification\](/images/services/product-certification-accreditation.jpg)
+![Product Certification](/images/services/product-certification-accreditation.jpg)
 
 The Accreditation Scheme for Product Certification Bodies was launched in November 2001 to accredit certification bodies which certify products based on an appropriate ISO product certification system. The certification system ranges from type testing to a more
 comprehensive system, which includes testing and auditing of the quality system, followed by regular surveillance and testing of the products. 
@@ -43,10 +43,12 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 ### Benefits
 Accreditation will:
 
-\* \*\*Increase confidence\*\*:  
+**Increase confidence**:
+
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
-\* \*\*International recognition\*\*:  
+**International recognition:**  
+
 As a member of the Multilateral Recognition Arrangement (MLA) for Product Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
 ### Process
