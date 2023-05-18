@@ -33,21 +33,21 @@ There are 5 Council Committees supporting the SAC Council to oversee the various
 ## Council Committee For Inspection (CCI)
 ### Term: 1 July 2021 - 30 June 2024
 
-
-| Designation          | Name                       | Organisation                                 |
-|----------------------|----------------------------|----------------------------------------------|
+| Designation   | Name                         | Organisation                      |
+|---------------|------------------------------|-----------------------------------|
 | Chairman  | Mr Silas Sng Wee Kiat        | Ministry of Manpower              |
-| Members   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Loh Lock Mun              | Association of Process Industry   |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
-|               | Dr Poh Teoh Yaw &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Building &amp; Construction Authority |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Er. Merlyn Thong &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Land Transport Authority &nbsp; &nbsp; &nbsp; &nbsp;  |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | A/Prof Leong Eng Choon &nbsp; &nbsp; &nbsp; | Nanyang Technological University  |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Victor Li&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Singapore Food Agency             |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Mr Adrian Lo &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | Singapore Manufacturing Federation – TIC Interest Group |
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Dr Ho Nyok Yong &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  | The Singapore Contractors Association Ltd |
+|  Members   | Er. Yong Fen Leong           | Association of Consulting Engineers, Singapore |
+|               | Mr Loh Lock Mun              | Association of Process Industry   |
+|               | Mr Andrew Alexander Malcolm  | Advanced Remanufacturing and Technology Centre (ARTC) |
+|               | Dr Poh Teoh Yaw              | Building &amp; Construction Authority |
+|               | Er. Merlyn Thong             | Land Transport Authority          |
+|               | A/Prof Leong Eng Choon       | Nanyang Technological University  |
+|               | Mr Victor Li                 | Singapore Food Agency             |
+|               | Mr Adrian Lo                 | Singapore Manufacturing Federation – TIC Interest Group |
+|               | Dr Ho Nyok Yong              | The Singapore Contractors Association Ltd |
 | Secretary | Mr Tang Kok Min              | Singapore Accreditation Council   |
-]
+
+
 
 ## Council Committee for Certification (CCC)
 ### Term: 1 July 2021 - 30 June 2024
