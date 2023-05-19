@@ -93,7 +93,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 {: #qn8}
 #### Any other enquiries?
-If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
+1. If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
 
 ---
 
@@ -113,7 +113,8 @@ Product registration in overseas markets are typically referred to the US FDA fo
 
 {: #qnb3}
 #### What are the OECD Principles?
-The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998. This document is produced by the OECD GLP Working Group and is available at \[OECD website\](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="\_blank"}.
+The basic document dealing with the GLP is the OECD Principles of Good Laboratory Practice, published by OECD’s Environment Directorate, and most recently revised in 1998
+This document is produced by the OECD GLP Working Group and is available at  [OECD websatite ](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qnb4}
