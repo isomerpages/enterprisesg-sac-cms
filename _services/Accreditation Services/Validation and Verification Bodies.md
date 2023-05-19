@@ -37,4 +37,4 @@ The detailed description of the accreditation process can be seen below:
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
 
 
-Upon fulfilling the basic requirements, the CAB can apply online through the (https://sacinet2.enterprisesg.gov.sg){:target="_"}.
+Upon fulfilling the basic requirements, the CAB can apply online through the \[SACINET website\](https://sacinet2.enterprisesg.gov.sg){:target="\_blank"}.
