@@ -198,7 +198,7 @@ There is a misconception that GLP is required for conducting clinical studies. T
 {: #qnb13}
 #### How do I gain GLP Recognition?
 
-A facility seeking recognition for compliance with OECD Principles of GLP should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually.
+A facility seeking recognition for compliance with OECD Principles of GLPg should apply to SAC, stating the proposed scope of recognition, type of studies etc. An on-site assessment is done to determine compliance with the Principles. At least one GLP compliant study must be completed prior to the initial assessment. Re-assessments are done every two years and a study audit is done annually.
 
 {: #qnb14}
 #### Where can I access the OECD Principles of GLP?
