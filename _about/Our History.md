@@ -8,8 +8,6 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
   
 ## **<center>Our Journey &amp; Milestones</center>**
 
-
-
 milestone:
   - title: 1986-1990
     years:
@@ -17,8 +15,6 @@ milestone:
       img: /images/about/milestone/sac-milestone-1986-11.jpg
       description:
       - line: "<b>November:</b> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR)."
-
- Standards and Industrial Research (SISIR)."
     - subtitle: 1996
       img: /images/about/milestone/sac-milestone-1996-10-11.jpg
       description:
@@ -206,3 +202,4 @@ milestone:
 Formed in 1996, the Singapore Accreditation Council (SAC) is the national authority for the independent accreditation of conformity assessment bodies in Singapore. Operating under Enterprise Singapore, a statutory board of the Ministry of Trade and Industry, SAC also builds trust in Singapore products and services by strengthening Singapore's technical infrastructure for conformity assessments and forging mutual recognition agreements (MRAs) with our economic partners. SAC's primary function is to accredit conformity assessment services, such as testing, calibration, inspection and certification.
 
 ## \*\*<center>Our Journey &amp; Milestones</center>\*\*
+
