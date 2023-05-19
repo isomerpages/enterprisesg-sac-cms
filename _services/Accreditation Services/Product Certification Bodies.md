@@ -17,9 +17,8 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 | Programmes | Accreditation Requirements | Certification Standards |
 |------------|----------------------------|-------------------------|
 | Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
-| Other Programmes <ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li></ul>{:} | ISO/IEC 17024 | Various applicable standards |
+| Other Programmes <ul><li>Security Personnel</li><li></li><li>Financial Planners</li><li></li><li>Medical Technologies</li><li></li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li></li><li>Welding Personnel</li><li></li><li>Others</li><li><ul>| ISO/IEC 17024 | Various applicable standards |
 
-<!-- COMMENT: the '{::nomarkdown}{:}' tags are used to process HTML code between the tags -->
 
 ### Benefits
 Accreditation will:
@@ -42,4 +41,4 @@ This accreditation scheme will provide a transparent system for assessment and r
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
 
-Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg).
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg)</ul></li></ul>
