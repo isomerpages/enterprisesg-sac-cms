@@ -72,7 +72,7 @@ More information for each accreditation scheme, can be obtained at \[Accreditati
 #### What is the general procedure for getting accreditation?
 The general procedure to obtain accreditation is as below:
 
-\*\*Enquiry and Formal Application:\*\* Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
+**Enquiry and Formal Application** Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
 
 \*\*Preliminary Assessment (Optional):\*\* An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited. 
 
