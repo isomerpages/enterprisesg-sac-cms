@@ -36,7 +36,7 @@ These are some of the key benefits of being accredited.
 
 **Reduce Costs:** Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc.
 
-\*\*Demonstrate Credibility:\*\* No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competent personnel.
+**Demonstrate Credibility:** No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competent personnel.
 
 {: #qn4}
 #### What are the SAC accreditation schemes?
