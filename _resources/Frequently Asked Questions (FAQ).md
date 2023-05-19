@@ -74,13 +74,13 @@ The general procedure to obtain accreditation is as below:
 
 **Enquiry and Formal Application** Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
 
-\*\*Preliminary Assessment (Optional):\*\* An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited. 
+**Preliminary Assessment (Optional)** An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited. 
 
-\*\*Initial Assessment:\*\* A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
+**Initial Assessment:** A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
 
-\*\*Recommendation by Assessment Team:\*\* The team will make a recommendation to the Review Committee for accreditation decision if the applicant has rectified any non-conformity satisfactorily.
+**Recommendation by Assessment Team:** The team will make a recommendation to the Review Committee for accreditation decision if the applicant has rectified any non-conformity satisfactorily.
 
-\*\*Award of Accreditation:\*\* If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. 
+**Award of Accreditation:** If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. 
 
 {: #qn6}
 #### How long does it take to get SAC accreditation?
