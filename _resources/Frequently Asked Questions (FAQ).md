@@ -187,8 +187,8 @@ MAD is a framework OECD Council established in 1981 stating that data generated 
 
 Companies that can benefit from GLP registration include:
 
-\* Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
-\* Contract research organisations
+* Research laboratories in the pharmaceutical, pesticides, veterinary drug products and industrial chemicals industries
+* Contract research organisations
 
 {: #qnb12}
 #### What about GLP and Clinical Studies?
@@ -203,7 +203,7 @@ A facility seeking recognition for compliance with OECD Principles of GLP should
 {: #qnb14}
 #### Where can I access the OECD Principles of GLP?
 
-Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the \[OECD website\](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
+Copies of the OECD Principles of GLP, Consensus Documents and useful guidance documents can be downloaded from the [OECD website](https://www.oecd.org/chemicalsafety/testing/overview-of-good-laboratory-practice.htm){:target="_blank"}.
 <!-- COMMENT: The {:target="&#95;blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qnb15}
