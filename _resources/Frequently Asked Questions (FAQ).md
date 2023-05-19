@@ -30,7 +30,7 @@ These are some of the key benefits of being accredited.
 
 **Building Trust:** In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
 
-**International Recognition:** Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/inspections if you are an accredited laboratory or inspection body.
+**International Recognition:** Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/insections if you are an accredited laboratory or inspection body.
 
 **Minimises Risk:** Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations.
 
@@ -42,14 +42,13 @@ These are some of the key benefits of being accredited.
 #### What are the SAC accreditation schemes?
 Currently SAC operates the following accreditation schemes:
 
-**Accreditation Scheme for Laboratories (SAC-SINGLAS)**
+* **Accreditation Scheme for Laboratories (SAC-SINGLAS)**
 This scheme  evaluates the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
  
-**Accreditation Scheme for Inspection Bodies**
+* **Accreditation Scheme for Inspection Bodies**
 This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
  
-**Accreditation Scheme for Management Systems Certification Bodies**
-**Quality Management System (QMS):** This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
+* **Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):** This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
 
 **Business Continuity Management System (BCM):** This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM). 
 
@@ -94,7 +93,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 {: #qn8}
 #### Any other enquiries?
-If you have any questions or doubts, you can drop us an email or call us directly through the \[Contact Us\](/contact-us) section.
+If you have any questions or doubts, you can drop us an email or call us directly through the [Contact Us](/contact-us) section.
 
 ---
 
