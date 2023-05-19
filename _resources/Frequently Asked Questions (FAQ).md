@@ -21,7 +21,7 @@ Accreditation is the endorsement by an authoritative body (such as SAC) of an or
 
 **Certification:** Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
-ILAC and  IAF have published an informative article titled \["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"\](http://ilac.org/?download=119879){:target="\_blank"} in \*Standards Engineering\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and  IAF have published an informative article titled ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="_blank"} in \*Standards Engineering\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab -->
 
 {: #qn3}
