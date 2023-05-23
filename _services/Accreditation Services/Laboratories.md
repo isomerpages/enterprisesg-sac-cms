@@ -23,19 +23,18 @@ SAC-SINGLAS accreditation is only granted for specific tests and calibrations in
 ### Benefits
 Accreditation will: 
  
-* Gain assurance of competence\*\*: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
+* Gain assurance of competence: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
 
-* Maintain high quality\*\*: Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
+* Maintain high quality: Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
+* Minimise your risk A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-working of your products.
 
-* Minimise your risk\*\*: A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-working of your products.
-
-* Increase customer buy-in\*\*: Using an accredited laboratory will improve your company's image and gain customers buy-in.
+* Increase customer buy-in: Using an accredited laboratory will improve your company's image and gain customers buy-in.
 
 As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the International Laboratory Accreditation Cooperation (ILAC), as well as having bilateral contract with the European Cooperation for Accreditation (EA), reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 65 economies.
  
 ### Process
 Upon receiving the accreditation application, the secretariat will send a quotation to the laboratory and arrange for a preliminary assessment. This assessment is conducted by a team that comprises SAC staff and a technical assessor, who is from the technical community, either within the country or overseas. When the laboratory has demonstrated compliance with our requirements, it will be recommended for accreditation. Once approved, SAC will grant a certificate of accreditation. The detailed description of the type of assessment is stipulated in SAC-SINGLAS-001, Accreditation Process. 
-<!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
+<!-- COMMENT: The {:target="_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
  
 (Note: SAC staff will conduct the Preliminary Assessment, except for the Calibration &amp; Measurement field, in which case a technical assessor will be engaged for the assessment.)
  
