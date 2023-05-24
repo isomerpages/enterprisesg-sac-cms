@@ -142,7 +142,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2009**
  
-![2009}(/images/about/milestone/sac-milestone-2009-10-01.jpg)
+![2009](/images/about/milestone/sac-milestone-2009-10-01.jpg)
 
 <b>6 April:</b> Launch of Accreditation Programme for Certification of Good Distribution Practice for Medical Devices (GDPMDS).
 
