@@ -35,7 +35,7 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 ![1997](/images/about/milestone/sac-milestone-1997-11-19.jpg)
 
-"<b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA. <span class="milestone-arrow"></span>" 
+<b>19 November:</b> SINGLAS becomes one of the inaugural signatories of the APLAC MRA. <span class="milestone-arrow"></span> 
 
 **1998**
 
