@@ -161,7 +161,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 <b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.
 
 
-**2011^^
+**2011**
 
 <b>1 January:</b> SAC took on the APLAC Chairmanship.
 
