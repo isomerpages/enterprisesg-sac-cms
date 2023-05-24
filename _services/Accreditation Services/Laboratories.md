@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Accreditation Services
 ---
 ## About SAC-SINGLAS
-![laboratory accreditation services](images/services/laboratory-accreditation.jpg)
+![laboratory accreditation services](/images/services/laboratory-accreditation.jpg)
 
 The Singapore Laboratory Accreditation Scheme (SAC-SINGLAS) plays an important role in improving the business efficiency and competitiveness of local industries. Administered by the SAC, the scheme accredits laboratories that conduct tests, calibrations and measurements in a spectrum of fields. 
 
