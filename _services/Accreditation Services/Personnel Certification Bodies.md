@@ -16,10 +16,8 @@ SAC accredits certification bodies that can demonstrate compliance with the foll
 
 | Programmes | Accreditation Requirements | Certification Standards |
 |------------|----------------------------|-------------------------|
-| Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
-| Other Programmes <ul><li>Security Personnel</li><li></li><li>Financial Planners</li><li></li><li>Medical echnologies</li><li></li><li>Non-Destructive Testing Personnel</li><li></li><li>Rope Access Personnel</li><li></li><li>Welding Personnel</li><li></li><li>Others</li><li><ul> | ISO/IEC 17024 | Various applicable standards |
-
-
+Business (Management) Consultants SIRI Consultant | ISO/IEC 17024 | TR 43 |
+Other Programmes <ul><li>Security Personnel</li><li>Financial Planners</li><li>Medical Technologies</li><li>Non-Destructive Testing Personnel</li><li>Rope Access Personnel</li><li>Welding Personnel</li><li>Others</li>
 
 ### Benefits
 Accreditation will:
@@ -29,7 +27,6 @@ Increase confidence:
 
 International recognition:
 *  As a member of the Multilateral Recognition Arrangement (MLA) for Personnel Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited personnel certification bodies are recognised worldwide by MLA members across more than 50 economies.
-
 
 ### Process
 The accreditation process involves an onsite assessment to validate if the CB operating a PC programme is competent and meets the globally accepted benchmark for personnel certification. After the initial award of accreditation, there will be surveillance
@@ -42,4 +39,4 @@ This accreditation scheme will provide a transparent system for assessment and r
 The detailed description of the accreditation process can be seen below:  
 ![Accreditation Process](/images/services/sac-accreditation-process-flowchart.jpg) 
 
-Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg)</ul></li></ul>
+Upon fulfilling the basic requirements, the CAB can apply online through the [SACINET website](https://sacinet2.enterprisesg.gov.sg)</ul>
