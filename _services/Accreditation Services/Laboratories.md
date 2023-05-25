@@ -23,12 +23,12 @@ SAC-SINGLAS accreditation is only granted for specific tests and calibrations in
 ### Benefits
 Accreditation will: 
  
-* Gain assurance of competence: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
+* **Gain assurance of competence**: Using an accredited laboratory allows you peace of mind that the competence of the laboratory engaged for testing of your products complies with international standards. 
 
-* Maintain high quality: Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
-* Minimise your risk A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-working of your products.
+* **Maintain high quality**: Testing facilities are guaranteed to preserve global quality standards through regular surveillance visits.
+* **Minimise your risk**: A SAC-accredited laboratory ensures that your product is competently tested, thus avoiding the risk of re-testing and re-working of your products.
 
-* Increase customer buy-in: Using an accredited laboratory will improve your company's image and gain customers buy-in.
+* **Increase customer buy-in**: Using an accredited laboratory will improve your company's image and gain customers buy-in.
 
 As a pioneer member of the Mutual Recognition Arrangement (MRA) of the Asia Pacific Laboratory Accreditation Cooperation (APLAC) and the International Laboratory Accreditation Cooperation (ILAC), as well as having bilateral contract with the European Cooperation for Accreditation (EA), reports and certificates issued by SAC-accredited laboratories are recognised worldwide by MRA members that span across 65 economies.
  
