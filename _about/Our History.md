@@ -131,13 +131,13 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2007**
 
-![2007](/images/about/milestone/sac-milestone-2007-07-11.jpg)
-
 <b>23 January:</b> SAC signed the IAF MLA for Product Certifcation.
 
 <b>7 - 13 July:</b> SAC hosted the 14th PAC Plenary Meeting. <span class="milestone-arrow"></span>   
 
 <b>5 November:</b> Launch of Accreditation Programme for Cargo Inspection and Medical Imaging.  
+
+![2007](/images/about/milestone/sac-milestone-2007-07-11.jpg)
 
 **2008**
 
