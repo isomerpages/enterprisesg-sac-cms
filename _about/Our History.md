@@ -134,7 +134,7 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2008**
 
-![2008}(/images/about/milestone/sac-milestone-2008-12-06.jpg)
+![2008](/images/about/milestone/sac-milestone-2008-12-06.jpg)
 
 <b>28 April:</b> Launch of Accreditation Programme for Certification of Ready-Mixed Concrete.
 
