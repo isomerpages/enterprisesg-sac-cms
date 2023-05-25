@@ -29,6 +29,10 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf)
  {:target="\_blank"}
  * [CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-18-(01-june-2021).pdf)
+{:target="\_blank"}
+
+
+
 
 ### Joint IAF-ISO Communiques 
 \* \[IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001\](/files/documents/management-system-and-products-certification/IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001.pdf){:target="\_blank"}
