@@ -13,6 +13,9 @@ description: ""
 ![1986](/images/about/milestone/sac-milestone-1986-11.jpg)
 </p> 
 <p>1996
+	
+![1996](/images/about/milestone/sac-milestone-1996-10-11.jpg)
+	
   <br>**29 January:**&nbsp;Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.
 
 **2 February:**&nbsp;Singlas hosted APLAC 1st General Assembly.
@@ -23,7 +26,7 @@ description: ""
 
 Launch of Accreditation Programme for Quality Management System (QMS) Certification.
 	
-![1996](/images/about/milestone/sac-milestone-1996-10-11.jpg)
+
 </p>
 </div></li>  
   
