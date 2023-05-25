@@ -10,15 +10,11 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
 
-
 * [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/Documents/Inspection%20body%20accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}
-
 
 * [Rules for the Use of ILAC MRA Mark](/files/Documents/Inspection%20body%20accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="\_blank"}
 
-
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
-
 
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](){:target="\_blank"}
 
@@ -27,7 +23,6 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [IB 01: 1 May 2021 - Accreditation Process](/files/Documents/Inspection%20body%20accreditation/IB-01-01-May-2021.pdf){:target="\_blank"}
 
 * [IB 02: 09 Jul 2018 - Fee Schedule](/files/Documents/Inspection%20body%20accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="\_blank"}
-
 
 * [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/Documents/Inspection%20body%20accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="\_blank"}
 
