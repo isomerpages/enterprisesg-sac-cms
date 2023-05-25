@@ -4,14 +4,27 @@ permalink: /resources/sac-documents/inspection-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
 ---
-  
 {: #publications-list}
 An inspection body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 #### ISO/IEC 17020:2012 - Conformity Assessment-Requirements for the operation of various types of bodies performing inspection
 
 <!-- COMMENT: The {:target="\_blank"} syntax at the end of the Markdown document links is used to open the document in a new window tab -->
-\* \[ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}
+
+
+* [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/Documents/Inspection%20body%20accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}
+
+
+
+* [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}.
+
+
+
+* [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}.
+
+
+
+
 \* \[Rules for the Use of ILAC MRA Mark\](/files/documents/inspection-body-accreditation/ILAC\_R7\_05\_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="\_blank"}
 \* \[SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation\](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
 \* \[SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks\](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
