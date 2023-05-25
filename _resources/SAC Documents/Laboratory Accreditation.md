@@ -27,9 +27,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process](/files/Documents/Laboratory%20Accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="\_blank"}
 
 * [SAC-SINGLAS 003 - Mar 2019: Fee Schedule for Accreditation of Testing and Calibration Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="\_blank"}
-
-*[SAC-SINGLAS 006 - May 2021: Traceability of Measurement](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-006-(29-March-2019).pdf)
-
+* [SAC-SINGLAS 006 - May 2021: Traceability of Measurement](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-006-(29-March-2019).pdf){:target="\_blank"}
+* [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="\_blank"}
 
 
 
