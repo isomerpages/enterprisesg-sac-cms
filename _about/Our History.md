@@ -286,8 +286,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 **2019**
 
-![2019](/images/about/milestone/sac-milestone-2019-06-14.jpg)
-
 <b>1 January:</b> APAC was established by the amalgamation of APLAC and PAC.
 
 <b>4 January:</b> SAC expanded Laboratory Accreditation Scheme to include Robustness Testing under the Information Technology Field and ISASecure Certification under Product Certification Scheme.
