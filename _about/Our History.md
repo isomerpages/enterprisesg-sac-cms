@@ -141,11 +141,12 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2008**
 
-![2008](/images/about/milestone/sac-milestone-2008-12-06.jpg)
-
 <b>28 April:</b> Launch of Accreditation Programme for Certification of Ready-Mixed Concrete.
 
 <b>6 - 12 December:</b> SAC hosted the 14th APLAC General Assembly and Technical Meetings. <span class="milestone-arrow"></span>  
+
+![2008](/images/about/milestone/sac-milestone-2008-12-06.jpg)
+
 
 **2009**
  
