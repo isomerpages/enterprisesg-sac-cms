@@ -71,24 +71,26 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 **2001**
 
-![2001](/images/about/milestone/sac-milestone-2001-04-09.jpg)
-
 <b>9 April:</b> Launch of Accreditation Scheme for Inspection Bodies. <span class="milestone-arrow"></span>  
 SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Ministry of Development, Brunei Darussalam.  
 
 <b>6 September:</b> SAC served as a member of the PAC Executive Committee.  
 
-<b>15 November:</b> Launch of Accreditation Scheme for Product Certification Bodies. 
+<b>15 November:</b> Launch of Accreditation 
+Scheme for Product Certification Bodies. 
+
+![2001](/images/about/milestone/sac-milestone-2001-04-09.jpg)
+
 
 **2002**  
  
-![2002](/images/about/milestone/sac-milestone-2002-08-29.jpg)
-
-<b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
+!<b>11 March:</b> SAC signed the MLA with International Auditor and Training Certification Association (IATCA) for QMS Auditor Registration.
 
 <b>1 April:</b> SAC was transferred to the Standards, Productivity and Innovation Board (SPRING Singapore). 
 
 <b>29 August:</b> SAC signed the Agreement for Joint Accreditation of Medical Laboratories with the College of American Pathologists. <span class="milestone-arrow"></span> 
+
+![2002](/images/about/milestone/sac-milestone-2002-08-29.jpg)
 
 **2003**
 
@@ -98,9 +100,9 @@ SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Mi
 
 **2004**
 
-![2004](/images/about/milestone/sac-milestone-2004-10-06.jpg)
-
 <b>6 - 10 September:</b> SAC hosted the 10th IATCA Plenary Meeting. <span class="milestone-arrow"></span>
+
+![2004](/images/about/milestone/sac-milestone-2004\-10\-06.jpg)
 
 **2005**
 
