@@ -17,8 +17,6 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 
 **1996**
 
-![1996](/images/about/milestone/sac-milestone-1996-10-11.jpg)
-
 <b>29 January:</b> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.
 
 <b>2 February:</b> Singlas hosted APLAC 1st General Assembly.
@@ -28,6 +26,10 @@ Formed in 1996, the Singapore Accreditation Council (SAC) is the national author
 <b>24 October:</b> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).
 
 Launch of Accreditation Programme for Quality Management System (QMS) Certification.
+
+![1996](/images/about/milestone/sac-milestone-1996-10-11.jpg)
+
+
 
 1991-2000
 
@@ -56,7 +58,7 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 ![2000](images/about/milestone/sac-milestone-2000-03-27-and-2000-11-02.jpg)
 
 <b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation. <span class="milestone-arrow"></span>  
-
+]
 <b>27-28 March:</b> SAC hosted the ILAC Accreditation Policy Committee Meeting.  
 
 <b>2 October:</b> Launch of Registration Scheme for QMS Internal Auditor. 
