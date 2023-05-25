@@ -178,8 +178,6 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2012**
 
-![2012](images/about/milestone/sac-milestone-2012-10-24.jpg)
-
 <b>10 May:</b> Launch of Site Investigation (SI) Accreditation Programme.
 
 <b>3 July:</b> Launch of Accreditation Programme for Energy Management System (EnMS) Certification.
@@ -187,6 +185,9 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 <b>10 August:</b> Launch of Accreditation Programme for Technical Audit of Extension Schemes for Pressure Vessels.
 
 <b>24 October:</b> SAC signed the ILAC MRA for Inspection Bodies. <span class="milestone-arrow"></span>
+
+![2012](images/about/milestone/sac-milestone-2012-10-24.jpg)
+
 
 **2013**
 
