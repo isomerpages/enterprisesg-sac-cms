@@ -10,8 +10,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 ### Publications for All Fields
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="_blank"}
 * [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
-* [SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics](https://www.sac-accreditation.gov.sg/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf)
-{:target="\_blank"}
+* [SAC Guidance 01- 02 April 2018: Guidelines on Code of Ethics](https://www.sac-accreditation.gov.sg/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 * [SAC-SINGLAS 004 - 21 September 2020: Classification of Tests](/files/Documents/SAC-SINGLAS-004-21-Sep-2020.pdf){:target="\_blank"}
 * [PROF-001-18-Feb-2019.pdf](/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf){:target="\_blank"}
 * [Rules for the Use of ILAC MRA Mark](/files/Documents/Laboratory%20Accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf)
