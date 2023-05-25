@@ -9,21 +9,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 ### Publications for All Certification Programmes
 
-<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf)
-* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
 
-
-
-
-\* \[SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation\](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
-<!-- NOTE: changes to SAC 02 must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
-\* \[SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks\](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
-\* \[SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics\](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
-\* \[Accreditation Feedback Form\](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
-\* \[CT 01 - 01 Nov 2021 Accreditation Process for Certification Bodies and Validation &amp; Verification Bodies\](/files/documents/CT-01-01-Nov-2021.pdf){:target="\_blank"}
-<!-- NOTE: changes to 'Information on the IAF MLA mark' must also be updated in 'Resources -> How to use SAC / ILAC / IAF Marks' -->
-\* \[Information on the IAF MLA mark and sub-licence agreement\](/files/documents/management-system-and-products-certification/IAF-ML2-(2016-Issue-3).pdf){:target="\_blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
 \*\*ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements\*\*
