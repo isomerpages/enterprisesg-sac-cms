@@ -26,6 +26,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) - 11 September 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-13-11-September-2020.pdf){:target="\_blank"}
 * [CT 14 - SAC Criteria for Certification Bodies (MTCS) - December 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank"}
 * [CT 15 - SAC Criteria for CBs (Management of end-of-life ICT Equipment) - 29 March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-15-(29-March-2019).pdf){:target="\_blank"}
+* [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf)
 
 ### Joint IAF-ISO Communiques 
 \* \[IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001\](/files/documents/management-system-and-products-certification/IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001.pdf){:target="\_blank"}
