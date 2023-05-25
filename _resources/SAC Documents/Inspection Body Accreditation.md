@@ -24,7 +24,10 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 
-* [IB 01: 1 May 2021 - Accreditation Process](/files/Documents/Inspection%20body%20accreditation/IB-01-01-May-2021.pdf)
+* [IB 01: 1 May 2021 - Accreditation Process](/files/Documents/Inspection%20body%20accreditation/IB-01-01-May-2021.pdf){:target="\_blank"}
+
+
+
 
  
 \*\*Cargo Inspection Field\*\*
