@@ -250,8 +250,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 **2017**
 
-![2017](/images/press-release/photos/Myanmar-MOU.png)
-
 <b>25 March:</b> SAC signed the PAC MLA for Energy Management System (EnMS) and Environmental Management System (EMS).
 
 <b>8 June:</b> SAC signed a MOU with Myanmar's Department of Research and Innovation (DRI) and appointed as their partner accreditation body. <span class="milestone-arrow"></span>
@@ -263,6 +261,8 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>15 September:</b> Launch of Accreditation Programme for Auditing Organisations.
 
 <b>26 December:</b> Launch of Accreditation Programme for Anti-Bribery Management System Certification.
+
+![2017](/images/press-release/photos/Myanmar-MOU.png)
 
 
 **2018**
