@@ -150,23 +150,24 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 **2009**
  
-![2009](/images/about/milestone/sac-milestone-2009-10-01.jpg)
-
 <b>6 April:</b> Launch of Accreditation Programme for Certification of Good Distribution Practice for Medical Devices (GDPMDS).
 
 <b>1 October:</b> Launch of Gaming Testing Accreditation Programme. <span class="milestone-arrow"></span>      
 
+![2009](/images/about/milestone/sac-milestone-2009-10-01.jpg)
+
+
 2010-Present
 
 **2010**
-
-![2010](/images/about/milestone/sac-milestone-2010-01-13.jpg)
 
 <b>13 January:</b> The Singapore GLP Compliance Programme was admitted to OECD Mutual Acceptance of Data. <span class="milestone-arrow"></span>
 
 <b>6 April:</b> Launch of Accreditation Programme for Business Continuity Management (BCM) Certification.
 
 <b>25 May:</b> Launch of Functional Food Testing Accreditation Programme.
+
+![2010](/images/about/milestone/sac-milestone-2010-01-13.jpg)
 
 
 **2011**
