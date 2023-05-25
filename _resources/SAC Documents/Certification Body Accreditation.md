@@ -13,7 +13,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 * [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
-* [CT 01 - 01 Nov 2021 Accreditation Process for CBs and VBs](/files/Documents/Management%20system%20and%20products%20certification/CT-01-01-Nov-2021.pdf)
+* [CT 01 - 01 Nov 2021 Accreditation Process for CBs and VBs](/files/Documents/Management%20system%20and%20products%20certification/CT-01-01-Nov-2021.pdf){:target="\_blank"}
 * [Information on the IAF MLA mark and sub-licence agreement](/files/Documents/Management%20system%20and%20products%20certification/IAF-ML2-(2016-Issue-3).pdf){:target="\_blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
