@@ -11,6 +11,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 <!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf)
+* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
 
 
 
