@@ -24,31 +24,8 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf](/files/Documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
 
+* [IB 01: 1 May 2021 - Accreditation Process](/files/Documents/Inspection%20body%20accreditation/IB-01-01-May-2021.pdf)
 
-
-* 
-
-
-
-
-* [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}.
-
-
-
-* [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}.
-
-
-
-
-\* \[Rules for the Use of ILAC MRA Mark\](/files/documents/inspection-body-accreditation/ILAC\_R7\_05\_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="\_blank"}
-\* \[SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation\](/files/documents/laboratory-accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
-\* \[SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and Mutual Recognition Arrangement (MRA) Marks\](/files/documents/laboratory-accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
-\* \[SAC Guidance 01 - 02 April 2018: Guidelines on Code of Ethics\](/files/documents/SAC-Guidance-01-Guidelines-on-Code-of-Ethics-(02-April-2018).pdf){:target="\_blank"}
-\* \[IB 01: 1 May 2021 - Accreditation Process\](/files/documents/inspection-body-accreditation/IB-01-01-May-2021.pdf){:target="\_blank"}
-<!-- NOTE: changes to Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-\* \[IB 02: 09 Jul 2018 - Fee Schedule\](/files/documents/inspection-body-accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="\_blank"}
-\* \[IBFM 02: 09 Jul 2018 - Assessment checklist\](/files/documents/inspection-body-accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="\_blank"}
-\* \[Accreditation Feedback Form\](/files/documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
  
 \*\*Cargo Inspection Field\*\*
 \* \[Technical Note CI 01: 30 Mar 2023 - Specific Requirements for the Accreditation of Inspection Bodies for Cargo\](/files/documents/inspection-body-accreditation/ci\_01-30mar2023.pdf){:target="\_blank"} 
