@@ -17,44 +17,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Information on the IAF MLA mark and sub-licence agreement](/files/Documents/Management%20system%20and%20products%20certification/IAF-ML2-(2016-Issue-3).pdf){:target="\_blank"}
 
 ### Standards and Criteria Document for Management Systems Certification
-\*\*ISO/IEC 17021-1:2015 - Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements\*\*
 
-\* \[CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020\](/files/documents/management-system-and-products-certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="\_blank"}
-\* \[CT 04 - SAC Criteria for Certification Bodies (Good Distribution Practice for Medical Devices) - July 2019\](/files/documents/management-system-and-products-certification/CT-04-(17-July-2019).pdf){:target="\_blank"}
-\* \[CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020\](/files/documents/management-system-and-products-certification/CT-08-02-March-2020-(BCM).pdf){:target="\_blank"}
-\* \[CT 09 - SAC Criteria for Certification Bodies (Quality Management for Bunker Supply Chain) - April 2022\](/files/documents/CT-09-07April2022.pdf){:target="\_blank"}
-\* \[CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - 02 March 2020\](/files/documents/management-system-and-products-certification/CT-11-02-March-2020-(WEMS).pdf){:target="\_blank"}
-\* \[CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers)  - 11 September  2020\](/files/documents/management-system-and-products-certification/CT-13-11-September-2020.pdf){:target="\_blank"}
-\* \[CT 14 - SAC Criteria for Certification Bodies (Multi-Tiered Cloud Computing Security) - December 2020\](/files/documents/CT 14 (MTCS), 21 Dec 2020(1).pdf){:target="\_blank"}
-\* \[CT 15 - SAC Criteria for Certification Bodies (Management of end-of-life ICT Equipment) - 29 March 2019\](/files/documents/management-system-and-products-certification/CT-15-(29-March-2019).pdf){:target="\_blank"}
-\* \[CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019\](/files/documents/management-system-and-products-certification/CT-16-(29-March-2019).pdf){:target="\_blank"}
-\* \[CT 18 - SAC Criteria for Certification Bodies (Medical Devices - Quality Management Systems) - June 2021\](/files/documents/CT-18-01-June-2021.pdf){:target="\_blank"} 
-\* \[CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021\](/files/documents/CT-21-01-June-2021.pdf){:target="\_blank"}
-\* \[CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021\](/files/documents/CT-25-16-Nov-2021.pdf){:target="\_blank"} 
-<!-- NOTE: changes to Management Systems Fees Schedule Fees Schedule must also be updated in 'Services -> Apply for Accreditation'-->
-\* \[Management Systems Fees Schedule - 5 July 2018\](/files/documents/management-system-and-products-certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
-\* \[SAC HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019\](/files/documents/management-system-and-products-certification/SAC-HACCP-Doc-1\_28-May-2019.pdf){:target="\_blank"}
-\* \[IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation\](/files/documents/management-system-and-products-certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="\_blank"}
-\* \[IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems\](/files/documents/management-system-and-products-certification/IAF-MD2-2017.pdf){:target="\_blank"}
-\* \[IAF MD 4:2022 - IAF Mandatory Document for the Use of Information and Communication Technology (ICT) for Auditing Assessment Purposes\](/files/documents/management-system-and-products-certification/IAF\_MD4\_Issue\_2\_Version\_3\_010220221.pdf){:target="\_blank"}
-\* \[IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and Occupational Health &amp; Safety Management Systems\](/files/documents/IAF-MD5-Issue-4-Version-2-11112019.pdf){:target="\_blank"}
-\* \[IAF MD 6:2014 - Application of ISO 14065:2013\](/files/documents/management-system-and-products-certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
-\* \[IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies\](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="\_blank"}
-\* \[IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)\](/files/documents/management-system-and-products-certification/IAF\_MD9\_Issue\_4\_01022022.pdf){:target="\_blank"}
-\* \[IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)\](/files/documents/management-system-and-products-certification/IAF-MD9-(2017).pdf){:target="\_blank"}
-\* \[IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated Management Systems\](/files/documents/management-system-and-products-certification/IAF-MD-11-v3.pdf){:target="\_blank"}
-\* \[IAF MD 12:2016 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries\](/files/documents/management-system-and-products-certification/IAF-MD-12.pdf){:target="\_blank"}
-\* \[IAF MD 15:2014 - IAF Mandatory Document for the Collection of Data to provide Indicators of Management System Certification Bodies' Performance\](/files/documents/management-system-and-products-certification/IAF-MD-15.pdf){:target="\_blank"}
-\* \[IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies\](/files/documents/management-system-and-products-certification/IAF-MD-16.pdf){:target="\_blank"}
-\* \[IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007\](/files/documents/management-system-and-products-certification/IAF\_MD21\_Migration\_to\_ISO\_45001\_2018\_Pub\_Version\_3\_01022022.pdf){:target="\_blank"}
-\* \[IAF MD 22:2019 -  Application of ISO/IEC 17021-1 for the Certification of Occupational Health and Safety Management Systems (OH&amp;SMS)\](/files/documents/management-system-and-products-certification/IAF-MD22-Issue-2-07052019.pdf){:target="\_blank"}
-\* \[IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems Certification Bodies\](/files/documents/management-system-and-products-certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="\_blank"}
-\* \[IAF MD 24:2021 - Transition Requirements for ISO 50003:2021\](/files/documents/IAF-MD-2-Issue-1.pdf){:target="\_blank"}
-\* \[IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022\](/files/documents/IAF\_MD26\_Issue\_2\_15012023.pdf){:target="\_blank"}
-\* \[IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark\](/files/documents/IAF-PL9-Issue-1-14112019.pdf){:target="\_blank"}
-\* \[Assessment Checklist (ISO/IEC 17021-1) - Jan 2016\](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="\_blank"}
-\* \[Assessment Checklist (ISO/TS 22003) - May 2017\](/files/documents/management-system-and-products-certification/MPFM25C-FSMS-checklist-(May-17).doc){:target="\_blank"}
-\* \[Assessment Checklist (ISO/IEC 27006:2015 Amd 1:2020), March 2022)\](/files/documents/CTFM02-ISMS-Assessment-Checklist-ISOIEC27006-Amd1-24Mar22.doc){:target="\_blank"}
 
 
 ### Joint IAF-ISO Communiques 
