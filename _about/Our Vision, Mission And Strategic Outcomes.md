@@ -6,7 +6,7 @@ description: ""
 ## Vision
 Choice partner for assurance of quality products, services and enterprises
 
-## Misson
+## Mission
 Deliver robust accreditation system to support industry and national needs
 
 ## Strategic Outcomes
