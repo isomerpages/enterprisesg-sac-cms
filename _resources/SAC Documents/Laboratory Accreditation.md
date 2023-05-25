@@ -30,16 +30,11 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [SAC-SINGLAS 006 - May 2021: Traceability of Measurement](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-006-(29-March-2019).pdf){:target="\_blank"}
 * [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="\_blank"}
 
+**Calibration and Measurement Field**
 
 
 
-
-\*\*Calibration and Measurement Field\*\*
-\* \[MET 001 - May 2021 : Specific Requirements for Calibration and Measurement Laboratories\](/files/documents/laboratory-accreditation/MET-001-1May2021.pdf){:target="\_blank"}
-\* \[MET 002 - 1 Aug 2022 : General Requirements and Criteria for Documenting the Calibration and Measurement Capability\](/files/documents/MET002-01Aug2022.pdf){:target="\_blank"}
-\* \[Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of Measurement Uncertainty\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="\_blank"}
-
-\*\*Chemical &amp; Biological Testing Field\*\*
+**Chemical &amp; Biological Testing Field**
 \* \[C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &amp;Biological Testing and EnvironmentalTesting Laboratories\](/files/documents/laboratory-accreditation/CB\_ENV-Tech\_Notes\_001-08Mar23v2.pdf){:target="\_blank}
 \* \[C&amp;B and ENV 002 - May 2021: Quality Assurance of Equipment Commonly Used in Chemical &amp; Biological and Environmental Testing Laboratories\](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="\_blank"}
 \* \[Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical &amp; Microbiological Analysis\](/files/documents/laboratory-accreditation/Technical-Guide-2.pdf){:target="\_blank"}
