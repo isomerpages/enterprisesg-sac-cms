@@ -208,8 +208,6 @@ SAC signed a MOU with Temasek Polytechnic to upgrade industry capability.
 
 **2014**
 
-![2014](/images/press-release/photos/APLAC-pic3.jpg)
-
 <b>7 May:</b> Launch of Accreditation Programme for Hook-Lift and Container (HL) Inspection.
 
 <b>25 June:</b> SAC signed the APLAC MRA for Proficiency Testing Providers (PTP). <span class="milestone-arrow"></span>
@@ -225,6 +223,9 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>29 October:</b> Launch of Accreditation Programme for Multi-Tiered Cloud Computing Security (MTCS) Certification.
 
 <b>12 November:</b> Launch of Accreditation Programme for End-of-Life ICT Equipment Management (EIMS) Certification.
+
+![2014](/images/press-release/photos/APLAC-pic3.jpg)
+
 
 **2015**
 
