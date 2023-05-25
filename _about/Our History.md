@@ -267,8 +267,6 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 **2018**
 
-![2018](/images/about/milestone/sac-milestone-2018-08-24.jpg)
-
 <b>2 January:</b> Launch of Online Learning Portal.
 
 <b>2 April:</b> Merger of IE Singapore and SPRING to form Enterprise Singapore.
@@ -282,6 +280,9 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 <b>26 October:</b> SAC and the Automation Standards Compliance Institute (ASCI) signed an MoU to facilitate industry recognition of SAC-accredited conformity assessment bodies (CABs) providing ISA/IEC 62443 Industrial Automation and Control Systems Cybersecurity Certification under ASCI's ISASecure Scheme. 
 
 <b>12 November:</b> Expanded Product Certification Scheme to include certification of Structural Steelwork Fabricators. 
+
+![2018](/images/about/milestone/sac-milestone-2018-08-24.jpg)
+
 
 **2019**
 
