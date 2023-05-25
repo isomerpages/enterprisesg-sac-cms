@@ -10,13 +10,7 @@ description: ""
 <p>1986
 	<br>November: The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR).
   
-	![1986](/images/about/milestone/sac-milestone-1986-11.jpg)
-	![](/images/about/milestone/sac-milestone-1986-11.jpg)
-
-| **November:**&nbsp;The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR). | Column 2 | 
-| -------- | -------- | 
-| Text     | Text     | 
-
+![1986](/images/about/milestone/sac-milestone-1986-11.jpg)
 </p>  
 </div></li>  
   
