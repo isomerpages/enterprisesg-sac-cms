@@ -35,12 +35,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Technical Guide 1 - Mar 2019 : Guidelines on the Evaluation and Expression of MU](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/calibration-and-measurement-field/Technical-Guide-1-29-Mar-2019.pdf){:target="\_blank"}
 
 **Chemical &amp; Biological Testing Field**
-\* \[C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &amp;Biological Testing and EnvironmentalTesting Laboratories\](/files/documents/laboratory-accreditation/CB\_ENV-Tech\_Notes\_001-08Mar23v2.pdf){:target="\_blank}
-\* \[C&amp;B and ENV 002 - May 2021: Quality Assurance of Equipment Commonly Used in Chemical &amp; Biological and Environmental Testing Laboratories\](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="\_blank"}
-\* \[Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical &amp; Microbiological Analysis\](/files/documents/laboratory-accreditation/Technical-Guide-2.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 001, 8 February 2019 : Elements of Method Validation for Chemical Testing\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003\_(1-Jul-2019).pdf){:target=\_blank"}
+* [C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for C&amp;B and ENV Testing Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf){:target="\_blank"}
+
 
 
 \*\*Civil Engineering Testing Field\*\*
