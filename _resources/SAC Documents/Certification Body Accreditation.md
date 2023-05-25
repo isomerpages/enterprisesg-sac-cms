@@ -20,7 +20,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="\_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (GDPMDS) - July 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-04-(17-July-2019).pdf){:target="\_blank"}
-* 
+* [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-08-02-March-2020-(BCM).pdf){:target="\_blank"}
 
 ### Joint IAF-ISO Communiques 
 \* \[IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001\](/files/documents/management-system-and-products-certification/IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001.pdf){:target="\_blank"}
