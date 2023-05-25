@@ -9,6 +9,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 ### Publications for All Fields
 * [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="_blank"}
+* [SAC 02 - 22 Jan 2020: Rules for Use of SAC Accreditation Marks and MRA Marks](/files/Documents/Laboratory%20Accreditation/SAC-02-22-Jan-20.pdf){:target="\_blank"}
 
 
 
