@@ -304,6 +304,9 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 <b>2 &amp; 27 October:</b> SAC was admitted to APAC MRA and IAF MLA for Certification of Persons.
 
+![2019](/images/about/milestone/sac-milestone-2019-06-14.jpg)
+
+
 **2020**
 
 <b>30 May:</b> SAC was admitted to IAF MLA for Occupational Health &amp; Safety Management System.
