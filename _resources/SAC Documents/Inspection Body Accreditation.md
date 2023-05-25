@@ -56,4 +56,5 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: HL 01: Specific Requirements for Hook-Lift and Container Inspection](/files/Documents/Inspection%20body%20accreditation/Hiner Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf){:target="_blank"}
 
 
-
+HL-01-27112019-Revised.pdf
+[Technical Note: HL 01: Specific Requirements for Hook-Lift and Container Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf)
