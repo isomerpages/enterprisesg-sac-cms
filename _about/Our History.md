@@ -229,13 +229,14 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 **2015**
 
-![2015](/images/about/milestone/sac-milestone-2015-11-05.jpg)
-
 <b>12 August:</b> Launch of Accreditation Programme for Asset Management (AM) Certification.
 
 <b>13 August:</b> SAC signed a MOU with the Chemical Metrology Division (CMD) of Health Sciences Authority for closer collaboration.
 
 <b>5 November:</b> SAC signed the IAF MLA for Food Safety Management System (FSMS). <span class="milestone-arrow"></span>
+
+![2015](/images/about/milestone/sac-milestone-2015-11-05.jpg)
+
 
 **2016**
 
