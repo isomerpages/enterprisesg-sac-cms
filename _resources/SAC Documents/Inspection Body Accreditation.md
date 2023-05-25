@@ -15,6 +15,8 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies](/files/Documents/Inspection%20body%20accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}
 
 
+* [Rules for the Use of ILAC MRA Mark](/files/Documents/Inspection%20body%20accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf){:target="\_blank"}
+
 
 * [ILAC P15:05/2020 - Application of ISO/IEC 17020:2012 for the Accreditation of Inspection Bodies\](/files/documents/inspection-body-accreditation/ILAC-P15-05-2020.pdf){:target="\_blank"}.
 
