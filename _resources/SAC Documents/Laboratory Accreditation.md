@@ -16,7 +16,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [PROF-001-18-Feb-2019.pdf](/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf){:target="\_blank"}
 * [Rules for the Use of ILAC MRA Mark](/files/Documents/Laboratory%20Accreditation/ILAC_R7_05_2015-Rules-for-the-Use-of-the-ILAC-MRA-Mark1.pdf)
 [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc)* [Rules for the Use of ILAC MRA Mark]()[PROF 001 - 18 February 2019: Policies on Proficiency Testing](/files/Documents/Laboratory%20Accreditation/PROF-001-18-Feb-2019.pdf){:target="\_blank"}
-*[Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc)target="\blank"}
+
 
 
 
