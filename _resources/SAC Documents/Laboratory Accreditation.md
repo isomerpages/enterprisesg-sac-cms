@@ -31,6 +31,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [LAFM03 - 02 April 2018 ISO 17025-2017 Checklist](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/LAFM03-ISO-17025-2017-Chklist-(02-April-2018).docx){:target="\_blank"}
 
 **Calibration and Measurement Field**
+* [MET 001 - May 2021 : Specific Requirements for Calibration and Measurement Laboratories](/files/Documents/Laboratory%20Accreditation/MET-001-1May2021.pdf){:target="\_blank"}
 
 
 
