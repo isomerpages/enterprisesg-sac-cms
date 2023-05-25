@@ -8,7 +8,8 @@ third_nav_title: SAC Documents
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Publications for All Certification Programmes
-[SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf)
+* [SAC 01 - 16 Feb 2020: Terms and Conditions for Accreditation](/files/Documents/Laboratory%20Accreditation/SAC-01-16Feb2020.pdf){:target="\_blank"}
+* 
 
 
 ### Standards and Criteria Document for Management Systems Certification
