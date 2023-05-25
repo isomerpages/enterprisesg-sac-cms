@@ -24,7 +24,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 
 * [IB 02: 09 Jul 2018 - Fee Schedule](/files/Documents/Inspection%20body%20accreditation/IB-02-Fee-Schedule-(09-July-2018).pdf){:target="\_blank"}
 
-* [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/Documents/Inspection%20body%20accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx){:target="\_blank"}
+* [IBFM 02: 09 Jul 2018 - Assessment checklist](/files/Documents/Inspection%20body%20accreditation/IBFM-02-Assessment-Checklist-(09-July-2018).docx)){:target="\_blank"}
    
 **Cargo Inspection Field**
 * [Technical Note CI 01: 30 Mar 2023 - Specific Requirements for the Accreditation of IB for Cargo](/files/Documents/Inspection%20body%20accreditation/ci_01-30mar2023.pdf){:target="\_blank"}
@@ -36,6 +36,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: PV/LE: June 2018 - Specific Requirements for PVLE Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
 
 **Site Investigation and Instrumentation &amp; Monitoring**
+
 * [Technical Note: SI 01: 18 Feb 2020 - Specific Requirements for Site Investigation](/files/Documents/Inspection%20body%20accreditation/SI-01-18-Feb-2020.pdf){:target="\_blank"}
 
 * [Technical Note: SS-01: 27 Aug 2020 - Specific Requirements for SSI](/files/Documents/Inspection%20body%20accreditation/SS-01-27-Aug2020.pdf){:target="\_blank"}
