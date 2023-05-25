@@ -237,16 +237,16 @@ Launch of Accreditation Scheme for Learning Service Providers (LSP) Certificatio
 
 ![2015](/images/about/milestone/sac-milestone-2015-11-05.jpg)
 
-
 **2016**
-
-![2016](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
 
 <b>9 June:</b> SAC organised its 1st Regulator Workshop to promote accreditation as a tool to support public policy.
 
 <b>16 June:</b> SAC elected to PAC Chairmanship.
 
 <b>27 July:</b> SAC celebrated 30 years of the Singapore Accreditation Programme. <span class="milestone-arrow"></span>    
+
+![2016](/images/press-release/photos/Quality-and-Standards-Dinner.jpg)
+
 
 **2017**
 
