@@ -2,7 +2,6 @@ collections:
   about:
     output: true
     order:
-      - Sharifah To Test Accordion.md
       - Our Role.md
       - Our Vision, Mission And Strategic Outcomes.md
       - Our History.md
@@ -22,3 +21,4 @@ collections:
       - About Accreditation.md
       - Benefits Of Accreditation.md
       - Join Us.md
+      - Sharifah To Test Accordion.md
