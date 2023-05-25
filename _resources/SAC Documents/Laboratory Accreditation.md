@@ -26,7 +26,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 #### ISO/IEC 17025: 2017 - General Requirements for the Competence of Testing and Calibration Laboratories
 * [SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process](/files/Documents/Laboratory%20Accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="\_blank"}
 
-
+* [SAC-SINGLAS 003 - Mar 2019: Fee Schedule for Accreditation of Testing and Calibration Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/general-requirements/SAC-SINGLAS-003-(29-March-2019).pdf){:target="\_blank"}
 
 
 
