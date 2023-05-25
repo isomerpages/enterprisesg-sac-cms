@@ -57,7 +57,7 @@ An inspection body must be fully conversant and comply with the relevant standar
 * [Technical Note: TA 01: Specific Requirements for Technical Audit of Extension Schemes for PV](/files/Documents/Inspection%20body%20accreditation/TA01-(09-July-2018).pdf){:target="\_blank"}
 
 **Hook-Lift &amp; Container Inspection Field**
-
+* [Technical Note: HL 01: Specific Requirements for Hook-Lift &amp; Container Inspection](/files/Documents/Inspection%20body%20accreditation/HL-01-27112019-Revised.pdf)
 
 
 
