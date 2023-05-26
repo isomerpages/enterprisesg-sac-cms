@@ -47,6 +47,7 @@ IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated MS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-11-v3.pdf){:target="\_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-12.pdf){:target="\_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Doc for the Collection of Data to provide Indicators of MS CB’ Perf](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-15.pdf){:target="\_blank"}
+* [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of FSMS Certification Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-16.pdf){:target="\_blank"}
 * 
 
 
