@@ -61,6 +61,7 @@ IAF-PL9-Issue-1-14112019.pdf - Not found
 
 ### Joint IAF-ISO Communiques 
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_9001](/files/Documents/Management%20system%20and%20products%20certification/IAF-ISO_Communique_Expected_Outcomes_ISO_9001.pdf){:target="_blank"}
+* [Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015](/files/Documents/Management%20system%20and%20products%20certification/Joint-IAF-ISO-Communique-on-the-publication-and-transition-08Oct%202015.pdf){:target="\_blank"}
 
 
 
