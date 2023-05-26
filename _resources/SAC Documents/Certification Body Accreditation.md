@@ -71,6 +71,7 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 
 ### Standards and Criteria Document for Personnel Certification
 * [Personnel Certification Fee Schedule - 01 Jan 2020](/files/Documents/Management%20system%20and%20products%20certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf){:target="\_blank"}
+* [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/Documents/Management%20system%20and%20products%20certification/17024-checklist-Sep-13.docx){:target="\_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
 \*\*Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements\*\*
