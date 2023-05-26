@@ -4,6 +4,7 @@ permalink: /resources/sac-documents/certification-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
 ---
+
 {: #publications-list}
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
@@ -75,12 +76,4 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 
 ### Standards and Criteria Document for Auditing Organisations
 CT%2001A%20-%2022%20Feb%202022.pdf (File name is wrong)
-
-
-
-
-
-
-
-
-
+CT%2017%20-%2022%20Feb%202022.pdf (File name is wrong)
