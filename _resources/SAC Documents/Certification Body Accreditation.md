@@ -67,35 +67,10 @@ IAF-PL9-Issue-1-14112019.pdf - Not found
 Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 
 ### Standards and Criteria Document for Product Certification
-\*\*ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services\*\*
 
-\* \[CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019\](/files/documents/management-system-and-products-certification/CT-05-(29-March-2019).pdf){:target="\_blank"}
-\* \[CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019\](/files/documents/management-system-and-products-certification/CT-06-(29-March-2019).pdf){:target="\_blank"}
-\* \[CT 12 - SAC Criteria for Product Certification Bodies (Regulated Fire Safety Products) - 14 September 2020\](/files/documents/management-system-and-products-certification/CT-12-14-September-2020.pdf){:target="\_blank"}
-\* \[CT 23 - SAC Criteria for Product Certification Bodies (Regulated Shelter Products) - 14 September 2020\](/files/documents/management-system-and-products-certification/CT-23-14-September-2020.pdf){:target="\_blank"}
-\* \[CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019\](/files/documents/management-system-and-products-certification/CT-19-(29-March-2019).pdf){:target="\_blank"}
-\* \[CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018\](/files/documents/management-system-and-products-certification/CT-20-(2-Nov-18).pdf){:target="\_blank"}
-\* \[CT 22 - SAC Criteria for Certification Bodies (In-Situ Post Tensioning Works) - 30 Nov 2021\](/files/documents/management-system-and-products-certification/CT-22-30Nov2021-In-Situ-Post-Tensioning-Works.pdf){:target="\_blank"} 
-\* \[CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021\](/files/documents/management-system-and-products-certification/CT-24-30-Nov-2021.pdf){:target="\_blank"}
-\* \[CT 26 - SAC Criteria For Certification Bodies (GAP and Clean &amp; Green Urban Farms)- November 2021\](/files/documents/management-system-and-products-certification/SAC CT 26\_25 Nov 2021.pdf){:target="\_blank"}
-\* \[CT 27 - SAC Criteria for Product Certification Bodies (Ground Support and Stabilisation Works for ERSS) - 19 December 2022\](/files/documents/CT-27-19Dec2022.pdf){:target="\_blank"}
-\* \[CT 28 - SAC Criteria for Specialist Builders (Ground Support and Stabilisation Works for ERSS) - 19 December 2022\](/files/documents/CT-28-19Dec2022.pdf){:target="\_blank"}
-\* \[CT 29 - SAC Criteria for Product Certification Bodies (Precast Concrete Products)  - 19 December 2022\](/files/documents/CT-29-19Dec2022.pdf){:target="\_blank"}
-\* \[CT 30 - SAC Criteria for Specialist Builders (Precast Concrete Products - 19 December 2022\](/files/documents/CT-30-19Dec2022.pdf){:target="\_blank"}
-\* \[CT 31 – SAC Criteria for Product Certification Bodies (Piling Works) – 27 April 2023\](/files/documents/ct\_31-27apr2023.pdf){:target="\_blank"}
-\* \[CT 32 – SAC Criteria for Specialist Builders (Piling Works) – 27 April 2023\](/files/documents/ct\_32-27apr2023.pdf){:target="\_blank"}
-
-\* \[PUB's Water Efficiency Labelling Scheme (WELS) Guidebook - 1 Sep 2021\](/files/documents/WELS-Guidebook-1-Sep-2021.pdf){:target="\_blank"}
-<!-- NOTE: changes to Product Certification Fees Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-\* \[Product Certification Fees Schedule - 01 Jan 2020\](/files/documents/management-system-and-products-certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="\_blank"}
-\* \[Assessment Checklist (ISO/IEC 17065) - Sept 2013\](/files/documents/management-system-and-products-certification/17065-checklist-Sep-13.docx){:target="\_blank"}
 
 ### Standards and Criteria Document for Personnel Certification
-\*\*ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons\*\*
-
-<!-- NOTE: changes to Personnel Certification Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-\* \[Personnel Certification Fee Schedule - 01 Jan 2020\](/files/documents/management-system-and-products-certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf){:target="\_blank"}
-\* \[Assessment Checklist (ISO/IEC 17024:2012) - Sep 13\](/files/documents/management-system-and-products-certification/17024-checklist-Sep-13.docx){:target="\_blank"}
+* [Personnel Certification Fee Schedule - 01 Jan 2020](/files/Documents/Management%20system%20and%20products%20certification/PC-Fees-Schedule-(PCDOC04)-1-Jan-2020.pdf){:target="\_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
 \*\*Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements\*\*
