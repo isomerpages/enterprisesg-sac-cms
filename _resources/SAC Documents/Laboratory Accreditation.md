@@ -54,11 +54,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Guidance Note EL 001- Mar 2019 : Guidelines on the Evaluation and Expression of MU for EL Field ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf){:target="\_blank"}
 
 
-
-
-
-
-\*\*Environmental Testing Field\*\*
+**Environmental Testing Field**
 
 \* \[C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &amp;Biological Testing and EnvironmentalTesting Laboratories\](/files/documents/laboratory-accreditation/CB\_ENV-Tech\_Notes\_001-08Mar23v2.pdf){:target="\_blank}
 \* \[C&amp;B and ENV 002 - May 2021: Quality Assurance of Equipment commonly used in Chemical &amp; Biological and Environmental Testing Laboratories\](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="\_blank"}
