@@ -73,6 +73,7 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 **ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-05-(29-March-2019).pdf){:target="\_blank"}
 * [CT 06 - SAC Criteria for Ready-Mixed Concrete Producers - March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-06-(29-March-2019).pdf){:target="\_blank"}
+* [CT 12 - SAC Criteria for Prdt Certification Bodies (Regulated Fire Safety Products) - 14 Sept 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-12-14-September-2020.pdf){:target="\_blank"}
 
 
 ### Standards and Criteria Document for Personnel Certification
