@@ -77,3 +77,4 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 CT%2001A%20-%2022%20Feb%202022.pdf (File name is wrong)
 CT%2017%20-%2022%20Feb%202022.pdf (File name is wrong)
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="\_blank"}
+* [Assessment Checklist (CT 17) - Oct 18](/files/Documents/Management%20system%20and%20products%20certification/Assessment-Checklist-(CT-17)-01-October-2018.docx){:target="\_blank"}
