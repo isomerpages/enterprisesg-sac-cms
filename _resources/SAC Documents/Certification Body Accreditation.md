@@ -79,6 +79,9 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/Documents/Management%20system%20and%20products%20certification/17024-checklist-Sep-13.docx){:target="\_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
+
+**Modified from ISO/IEC 17021-1:2015 Conformity assessment - Requirements for bodies providing audit and certification of management systems - Part 1: Requirements**
+
 CT%2001A%20-%2022%20Feb%202022.pdf (File name is wrong)
 CT%2017%20-%2022%20Feb%202022.pdf (File name is wrong)
 * [Auditing Organisations Fee Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/AO-Fees-Schedule-(AODOC04)-5-July-2018.pdf){:target="\_blank"}
