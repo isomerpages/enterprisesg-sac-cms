@@ -48,7 +48,7 @@ IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 12:2016 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-12.pdf){:target="\_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Doc for the Collection of Data to provide Indicators of MS CB’ Perf](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-15.pdf){:target="\_blank"}
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of FSMS Certification Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-16.pdf){:target="\_blank"}
-* 
+* [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="\_blank"}
 
 
 
