@@ -31,9 +31,10 @@ CT%2014%20(MTCS),%2021%20Dec%202020(1).pdf (Not found)
 
 * [CT 15 - SAC Criteria for CBs (Management of end-of-life ICT Equipment) - 29 March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-15-(29-March-2019).pdf){:target="\_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf)
- {:target="\_blank"}
- * [CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-18-(01-june-2021).pdf)
 {:target="\_blank"}
+
+CT-18-01-June-2021.pdf (Not found)
+
 * [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-21-(01-june-2021).{:target="\_blank"}
 
 CT-25-16-Nov-2021.pdf (Not found)
