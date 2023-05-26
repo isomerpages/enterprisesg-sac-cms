@@ -47,7 +47,7 @@ CT-25-16-Nov-2021.pdf (Not found)
 IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf){:target="\_blank"}
-[IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD9_Issue_4_01022022.pdf){:target="\_blank"}
+* [IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD9_Issue_4_01022022.pdf){:target="\_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD9-(2017).{:target="\_blank"}
 * [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated MS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-11-v3.pdf){:target="\_blank"}
 * [IAF MD 12:2016 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-12.pdf){:target="\_blank"}
