@@ -137,9 +137,10 @@ Launch of Accreditation Programme for ISO 22000 Food Safety Management System (F
 
 <b>7 - 13 July:</b> SAC hosted the 14th PAC Plenary Meeting. <span class="milestone-arrow"></span>   
 
+![2007](/images/about/milestone/sac-milestone-2007-07-11.jpg)
+
 <b>5 November:</b> Launch of Accreditation Programme for Cargo Inspection and Medical Imaging.  
 
-![2007](/images/about/milestone/sac-milestone-2007-07-11.jpg)
 
 **2008**
 
