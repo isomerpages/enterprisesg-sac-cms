@@ -64,6 +64,8 @@ IAF-PL9-Issue-1-14112019.pdf - Not found
 * [IAF-ISO_Communique_Expected_Outcomes_ISO_14001](/files/Documents/Management%20system%20and%20products%20certification/IAF-ISO_Communique_Expected_Outcomes_ISO_14001.pdf){:target="\_blank"}
 * [Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015](/files/Documents/Management%20system%20and%20products%20certification/Joint-IAF-ISO-Communique-on-the-publication-and-transition-08Oct%202015.pdf){:target="\_blank"}
 
+Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
+
 
 
 ### Standards and Criteria Document for Product Certification
