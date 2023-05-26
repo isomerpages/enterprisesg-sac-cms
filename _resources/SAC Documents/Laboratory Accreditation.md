@@ -50,7 +50,6 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Electrical Testing Field**
 * EL 001 - 1 Aug 2022 Not found{:target="\_blank"}
-* EL 002 - 1 Aug 2022 Not found{:target="\_blank"}
 
 
 
