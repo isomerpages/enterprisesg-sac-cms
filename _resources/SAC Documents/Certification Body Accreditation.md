@@ -40,6 +40,7 @@ CT 25 - SAC Criteria missing in File folder
 * [IAF MD 4:2022 - IAF Mandatory Document for the Use of (ICT) for Auditing Assessment Purposes](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD4_Issue_2_Version_3_010220221.pdf){:target="\_blank"}
 
 IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
+* [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
 
 
 
