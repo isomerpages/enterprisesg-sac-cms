@@ -91,9 +91,6 @@ ct_32-27apr2023.pdf (Not found)
 * [Product Certification Fees Schedule - 01 Jan 2020](/files/Documents/Management%20system%20and%20products%20certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="\_blank"}
 * [Assessment Checklist (ISO/IEC 17065) - Sept 2013](/files/Documents/Management%20system%20and%20products%20certification/17065-checklist-Sep-13.docx){:target="\_blank"}
 
-
-
-
 ### Standards and Criteria Document for Personnel Certification
 
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
