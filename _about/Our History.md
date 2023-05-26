@@ -71,7 +71,9 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 
 **2001**
 
-<b>9 April:</b> Launch of Accreditation Scheme for Inspection Bodies. <span class="milestone-arrow"></span>  
+<b>9 April:</b> Launch of Accreditation Scheme for Inspection Bodies. <span class="milestone-
+arrow"></span>  
+
 SAC signed a Letter of Understanding (LOU) for Technical Cooperation with the Ministry of Development, Brunei Darussalam.  
 
 <b>6 September:</b> SAC served as a member of the PAC Executive Committee.  
