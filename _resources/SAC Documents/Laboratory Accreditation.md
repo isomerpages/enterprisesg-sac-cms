@@ -91,9 +91,6 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 
 
-
-
- 
 \*\*Medical Imaging Testing Field\*\*
 \* \[MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021\](/files/documents/laboratory-accreditation/MI-001-Tech-Notes-25Oct21-Final.pdf){:target="\_blank"}
 
