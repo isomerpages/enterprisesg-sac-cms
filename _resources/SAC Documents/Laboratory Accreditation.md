@@ -63,19 +63,16 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * [Technical Guide 2 - Mar 2019: A Guide on MU in Chemical &amp; Microbiological Analysis](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Technical-Guide-2-29-Mar-2019.pdf){:target="\_blank"}
 
 
+**Functional Food Testing**
+* Not Found
+
+
+**Informatiion Technology Testing**
+* [IT 001 - 2 April 2018: General Requirements for the Accreditation of Info Tech Security Testing Labs](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf){:target="\_blank"}
+* 
 
 
 
-
-
-
-
-\*\*Functional Food Testing\*\*
-\* \[FFT 01 - 08 Mar 2023: General Criteria for Testing of Health-Related Properties of Foods\](/files/documents/fft-01\_8mar2023.pdf){:target="\_blank"}
-
-\*\*Information Technology Testing\*\*
-\* \[IT 001 - 2 April 2018: General Requirements for the Accreditation of Information Technology Security Testing Laboratories\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf){:target="\_blank"}
-\* \[IT 002 - 20 November 2020: General Requirements for the Information Technology Laboratories for Gaming Testing\](/files/documents/laboratory-accreditation/IT-002-20-Nov-2020.pdf){:target="\_blank"}
 
 \*\*Mechanical Testing Field\*\*
 \* \[MECH 001 - May 2021: Specific Requirements for Mechanical Testing Laboratories\](/files/documents/laboratory-accreditation/MECH-001-1May2021.pdf){:target="\_blank"}
