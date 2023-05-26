@@ -23,7 +23,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 02 - SAC Criteria for Certification Bodies (OSHMS) - July 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-02-15-Jul-2020-SAC-Criteria-for-OHSMS.pdf){:target="\_blank"}
 * [CT 04 - SAC Criteria for Certification Bodies (GDPMDS) - July 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-04-(17-July-2019).pdf){:target="\_blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-08-02-March-2020-(BCM).pdf){:target="\_blank"}
-* [CT 09 - SAC Criteria for Certification Bodies (QMBS) - April 2022](/files/Documents/Management%20system%20and%20products%20certification/ct-09-(07-april-2022).pdf){:target="\_blank"}
+* [CT 09 - SAC Criteria for Certification Bodies (QQMBS) - April 2022](/files/Documents/Management%20system%20and%20products%20certification/ct-09-(07-april-2022).pdf){:target="\_blank"}
 * [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - 02 March 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-11-02-March-2020-(WEMS).pdf){:target="\_blank"}
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) - 11 September 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-13-11-September-2020.pdf){:target="\_blank"}
 * [CT 14 - SAC Criteria for Certification Bodies (MTCS) - December 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-14-02-Mar-2020-(MTCS).pdf){:target="_blank"}
