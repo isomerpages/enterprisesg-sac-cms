@@ -35,7 +35,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Chemical &amp; Biological Testing Field**
 * [C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for C&amp;B and ENV Testing Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/CB-and-ENV-Guidance-Notes-003_(1-Jul-2019).pdf){:target="\_blank"}
-* not found
+* not found{:target="\_blank"}
+* [Technical Guide 2 - Mar 2019: A Guide on MU in Chemical &amp; Microbiological Analysis](/files/Documents/Laboratory%20Accreditation/Technical-Guide-2.pdf){:target="\_blank"}
 
 
 
