@@ -53,6 +53,8 @@ IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="\_blank"}
 IAF-MD-2-Issue-1.pdf - Not found
 IAF_MD26_Issue_2_15012023.pdf - Not found
+IAF-PL9-Issue-1-14112019.pdf - Not found
+
 
 
 
