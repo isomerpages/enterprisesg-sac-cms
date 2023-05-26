@@ -55,7 +55,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Environmental Testing Field**
 
-
+* [C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chem &amp; Bio and Env Testing Laboratories](/files/Documents/Laboratory%20Accreditation/CB_ENV-Tech_Notes_001-08Mar23v2.pdf){:target="\_blank"}
+* [Guidance Note - C&amp;B and ENV 001, 8 Feb 2019 : Elements of Method Validation for Chemical Testing](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/chemical-and-biological-testing-field/Guidance-Note-CnB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
 
 
 
