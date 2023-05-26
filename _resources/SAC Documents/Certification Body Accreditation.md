@@ -61,10 +61,7 @@ IAF-PL9-Issue-1-14112019.pdf - Not found
 
 
 ### Joint IAF-ISO Communiques 
-\* \[IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001\](/files/documents/management-system-and-products-certification/IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_9001.pdf){:target="\_blank"}
-\* \[IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_14001\](/files/documents/management-system-and-products-certification/IAF-ISO\_Communique\_Expected\_Outcomes\_ISO\_14001.pdf){:target="\_blank"}
-\* \[Joint IAF-ISO Communique on the publication and transition of ISO 9001:2015\](/files/documents/management-system-and-products-certification/Joint-IAF-ISO-Communique-on-the-publication-and-transition-08Oct 2015.pdf){:target="\_blank"}
-\* \[Joint IAF-ISO Document on Expected Outcomes for Certification to ISO 22000, a Food Safety Management System (FSMS)\](/files/documents/Expected-Outcomes-for-Certification-to-ISO-22000.pdf){:target="\_blank"}
+
 
 
 
