@@ -30,7 +30,7 @@ A certification body must be fully conversant and comply with the relevant stand
  {:target="\_blank"}
  * [CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-18-(01-june-2021).pdf)
 {:target="\_blank"}
-* [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-21-(01-june-2021).pdf{:target="\_blank"}
+* [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021](/files/Documents/Management%20system%20and%20products%20certification/ct-21-(01-june-2021).{:target="\_blank"}
 
 CT 25 - SAC Criteria missing in File folder
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
