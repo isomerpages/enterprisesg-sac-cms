@@ -87,6 +87,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 #### ISO 15189: 2012 - Particular Requirements for Quality and Competence
 
 * [SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process](/files/Documents/Laboratory%20Accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="\_blank"}
+* [SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees for Medical Testing and Medical Imaging Facilities](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="\_blank"}
 
 
 
