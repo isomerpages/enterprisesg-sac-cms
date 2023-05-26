@@ -4,6 +4,7 @@ permalink: /resources/sac-documents/proficiency-testing-provider-accreditation/
 description: ""
 third_nav_title: SAC Documents
 ---
+
 A facility must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Standards and Criteria Document for PTP
@@ -16,9 +17,19 @@ A facility must be fully conversant and comply with the relevant standards and c
 * [PTP 001 - 15 May 2018: Requirements for the Application of ISO/IEC 17043 Site Settings](/files/Documents/proficiency-testing-providers/PTP-001-15-May-18.pdf){:target="\_blank"}
 * [PTP 002 - 18 April 2018: Fee Schedule for Accreditation of Proficiency Testing Providers](/files/Documents/proficiency-testing-providers/PTP-002-(18-April-2018).pdf){:target="\_blank"}
 
+
+
+* [PTPFM 03 - 18 April 2018: Proficiency Testing Providers Assessment Checklist](/files/Documents/proficiency-testing-providers/PTPFM03-(18-April-2018).docx){:target="\_blank"}
+
+
+
+* [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
+
+
+
+
 * [PTPFM 03 - 18 April 2018: Proficiency Testing Providers Assessment Checklist](/files/Documents/proficiency-testing-providers/PTPFM03-(18-April-2018).docx){:target="\_blank"}
 
 * [Accreditation Feedback Form](/files/Documents/SACFM10-AC-feedback-form-15-Jul-19.doc){:target="\_blank"}
 
 
-* [PTPFM 03 - 18 April 2018: Proficiency Testing Providers Assessment Checklist](/files/Documents/proficiency-testing-providers/PTPFM03-(18-April-2018).docx):target="\_blank"}
