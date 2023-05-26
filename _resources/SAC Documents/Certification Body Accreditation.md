@@ -74,3 +74,13 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 * [Assessment Checklist (ISO/IEC 17024:2012) - Sep 13](/files/Documents/Management%20system%20and%20products%20certification/17024-checklist-Sep-13.docx){:target="\_blank"}
 
 ### Standards and Criteria Document for Auditing Organisations
+CT%2001A%20-%2022%20Feb%202022.pdf (File name is wrong)
+
+
+
+
+
+
+
+
+
