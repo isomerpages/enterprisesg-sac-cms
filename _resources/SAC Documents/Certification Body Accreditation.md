@@ -78,6 +78,7 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 * [CT 19 - SAC Criteria for Certification Bodies (Water Efficiency Labelling Scheme) - 29 March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-19-(29-March-2019).pdf){:target="\_blank"}
 * [CT 20 - SAC Criteria for Certification Bodies (Structural Steelworks Fabricators) - 02 Nov 2018](/files/Documents/Management%20system%20and%20products%20certification/CT-20-(2-Nov-18).pdf){:target="\_blank"}
 * [CT 22 - SAC Criteria for Certification Bodies (In-Situ Post Tensioning Works) - 30 Nov 2021](/files/Documents/Management%20system%20and%20products%20certification/CT-22-30Nov2021-In-Situ-Post-Tensioning-Works.pdf){:target="\_blank"}
+* [CT 24 - SAC Criteria For Certification Bodies (Alternative Structural Steel In Bc1)- November 2021](/files/Documents/Management%20system%20and%20products%20certification/CT-24-30-Nov-2021.pdf){:target="\_blank"}
 
 
 ### Standards and Criteria Document for Personnel Certification
