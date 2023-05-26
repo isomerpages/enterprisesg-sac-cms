@@ -82,7 +82,8 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 * [CT 26 - SAC Criteria For Certification Bodies (GAP and Clean & Green Urban Farms)- November 2021](/files/Documents/Management%20system%20and%20products%20certification/SAC%20CT%2026_25%20Nov%202021.pdf){:target="\_blank"}
 
 CT-27-19Dec2022.pdf (Not found)
-CT-28-19Dec2022.pdf (Nor found)
+CT-28-19Dec2022.pdf (Not found)
+CT-29-19Dec2022.pdf (Not found)
 
 
 ### Standards and Criteria Document for Personnel Certification
