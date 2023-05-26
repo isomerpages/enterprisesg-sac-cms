@@ -80,19 +80,19 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * Not Found
 * [NDT 002 - 01 July 2019: Guidelines for the Recognition of NDT Personnel Certification for Assessment](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-002_1-July-19.pdf){:target="\_blank"}
 * [NDT 003 - 15 May 2018: Quality Assurance of Equipment Commonly Used in NDT Testing Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/non-destructive-testing-field/NDT-003-15-May-18.pdf){:target="\_blank"}
-
-
-
+* [Guidance Note NDT 001- 29 Mar 2019: Guidance Document for Estimation of MU Uncertainty in NDT](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/non-destructive-testing-field/Guidance-Note-NDT-001,-290319.pdf){:target="\_blank"}
 
 
 
 ### Standards and Criteria Document for Medical Testing and Medical Imaging
 #### ISO 15189: 2012 - Particular Requirements for Quality and Competence
 
-\* \[SAC-SINGLAS 001-Cor - 1 May 2021: Accreditation Process\](/files/documents/laboratory-accreditation/SAC-SINGLAS-001-01-May-2021-Cor.pdf){:target="\_blank"}
 
-<!-- NOTE: changes to Fee Schedule must also be updated in 'Services -> Apply for Accreditation' -->
-\* \[SAC-SINGLAS 003 - MED/MI - Mar 2019: Fees Schedule for Accreditation of Medical Testing Laboratories and Medical Imaging Facilities\](/files/documents/laboratory-accreditation/medical-testing-and-medical-imaging-documents/requirements-for-quality-and-competence/SAC-SINGLAS-003-MED-MI-29-Mar-2019.pdf){:target="\_blank"}
+
+
+
+
+
  
 \*\*Medical Imaging Testing Field\*\*
 \* \[MI 001 - Specific Criteria for Medical Imaging, 25 Oct 2021\](/files/documents/laboratory-accreditation/MI-001-Tech-Notes-25Oct21-Final.pdf){:target="\_blank"}
