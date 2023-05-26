@@ -88,6 +88,8 @@ CT-30-19Dec2022.pdf (Not found)
 ct_31-27apr2023.pdf (Not found)
 ct_32-27apr2023.pdf (Not found)
 * [PUB’s Water Efficiency Labelling Scheme (WELS) Guidebook - 1 Sep 2021](/files/Documents/Management%20system%20and%20products%20certification/WELS-Guidebook-2021.pdf){:target="\_blank"}
+* [Product Certification Fees Schedule - 01 Jan 2020](/files/Documents/Management%20system%20and%20products%20certification/Pdt-Fees-Schedule-(PDOC04)-1-Jan-2020.pdf){:target="\_blank"}
+* 
 
 
 
