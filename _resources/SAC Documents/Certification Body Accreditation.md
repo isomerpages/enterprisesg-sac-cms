@@ -67,6 +67,8 @@ IAF-PL9-Issue-1-14112019.pdf - Not found
 Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 
 ### Standards and Criteria Document for Product Certification
+
+**ISO/IEC 17065:2012 - Conformity assessment – Requirements for bodies certifying products, processes and services**
 * [CT 05 - SAC Criteria for Certification Bodies (Ready-Mixed Concrete) - March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-05-(29-March-2019).pdf){:target="\_blank"}
 
 
