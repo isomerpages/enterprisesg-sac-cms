@@ -94,3 +94,4 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Medical Testing Field**
 * [MED 001- General Criteria, Nov 2021](/files/Documents/Laboratory%20Accreditation/medical-testing-and-medical-imaging-documents/medical-testing-field/MED-001-GenCriteria-26Nov21-v2.pdf){:target="\_blank"}
+* stop here
