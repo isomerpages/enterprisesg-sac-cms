@@ -53,15 +53,14 @@ A laboratory must be fully conversant and comply with the relevant standards and
 * EL 002 - 1 Aug 2022 Not found{:target="\_blank"}
 * [Guidance Note EL 001- Mar 2019 : Guidelines on the Evaluation and Expression of MU for EL Field ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf){:target="\_blank"}
 
-
 **Environmental Testing Field**
 
-\* \[C&amp;B and ENV 001 - 08 March 2023: Specific Requirements for Chemical &amp;Biological Testing and EnvironmentalTesting Laboratories\](/files/documents/laboratory-accreditation/CB\_ENV-Tech\_Notes\_001-08Mar23v2.pdf){:target="\_blank}
-\* \[C&amp;B and ENV 002 - May 2021: Quality Assurance of Equipment commonly used in Chemical &amp; Biological and Environmental Testing Laboratories\](/files/documents/laboratory-accreditation/CB-ENV-Technotes0021May2021.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 001, Feb 2019 : Method Validation for Chemical Testing\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-ENV-001-8-Feb-2019.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 002, Mar 2019 : Method Validation of Microbiological Methods\](/files/documents/laboratory-accreditation/testing-and-calibration-documents/environmental-testing-field/Guidance-Note-CB-and-ENV-002-29-Mar-2019.pdf){:target="\_blank"}
-\* \[Guidance Note - C&amp;B and ENV 003, 01 July 2019 : Guidance for Identification and Confirmation of Microorganisms\](/files/documents/CB-and-ENV-Guidance-Notes-003-1Jul2019.pdf){:target="\_blank"}
-\* \[Technical Guide 2 - Mar 2019: A Guide on Measurement Uncertainty in Chemical &amp; Microbiological Analysis\](/files/documents/laboratory-accreditation/Technical-Guide-2.pdf){:target="\_blank"}
+
+
+
+
+
+
 
 \*\*Functional Food Testing\*\*
 \* \[FFT 01 - 08 Mar 2023: General Criteria for Testing of Health-Related Properties of Foods\](/files/documents/fft-01\_8mar2023.pdf){:target="\_blank"}
