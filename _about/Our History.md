@@ -56,7 +56,7 @@ Launch of Accreditation Programme for Quality Management System (QMS) Certificat
 **2000**
 
 <b>27 March:</b> SAC signed the Bilateral MRA with the European Co-operation for Accreditation (EA) for laboratory accreditation. <span class="milestone-arrow"></span>  
-]
+
 <b>27-28 March:</b> SAC hosted the ILAC Accreditation Policy Committee Meeting.  
 
 <b>2 October:</b> Launch of Registration Scheme for QMS Internal Auditor. 
