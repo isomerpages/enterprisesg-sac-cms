@@ -43,6 +43,7 @@ IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf){:target="\_blank"}
 * [IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD9_Issue_4_01022022.pd){:target="\_blank"}
+* [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD9-(2017).{:target="\_blank"}
 
 
 
