@@ -24,7 +24,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 04 - SAC Criteria for Certification Bodies (GDPMDS) - July 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-04-(17-July-2019).pdf){:target="\_blank"}
 * [CT 08 - SAC Criteria for Certification Bodies (Business Continuity Management) - March 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-08-02-March-2020-(BCM).pdf){:target="\_blank"}
 
-CT-09-07April2022.pdf (Nout found)
+CT-09-07April2022.pdf (Not found)
 * [CT 11 - SAC Criteria for Certification Bodies (Water Efficiency Management Systems) - 02 March 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-11-02-March-2020-(WEMS).pdf){:target="\_blank"}
 * [CT 13 - SAC Criteria for Certification Bodies (Learning Service Providers) - 11 September 2020](/files/Documents/Management%20system%20and%20products%20certification/CT-13-11-September-2020.pdf){:target="\_blank"}
 CT%2014%20(MTCS),%2021%20Dec%202020(1).pdf (Not found)
