@@ -83,6 +83,7 @@ Expected-Outcomes-for-Certification-to-ISO-22000.pdf - Not found
 
 CT-27-19Dec2022.pdf (Not found)
 
+
 ### Standards and Criteria Document for Personnel Certification
 
 **ISO/IEC 17024:2012 Conformity assessment - General requirements for bodies operating certification of persons**
