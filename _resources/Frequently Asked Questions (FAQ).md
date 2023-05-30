@@ -64,8 +64,16 @@ SAC HACCP Doc  01.
 **Food Safety Management System:** This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
  
 **Accreditation Scheme for Product Certification:**  This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
- 
+
+
 More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services).
+
+
+
+More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services){:target="\_blank"}
+
+
+
 
 {: #qn5}
 #### What is the general procedure for getting accreditation?
