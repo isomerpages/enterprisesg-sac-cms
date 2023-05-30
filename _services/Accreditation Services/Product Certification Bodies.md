@@ -46,6 +46,7 @@ Accreditation will:
 * **Increase confidence**:  
 Widely recognised by regulators and the industry, SAC accredited certificates instil greater confidence in those who choose to engage the services of SAC accredited certification bodies. 
 
+
 * **International recognition**:  
 As a member of the Multilateral Recognition Arrangement (MLA) for Product Certification of both the Asia Pacific Accreditation Cooperation (APAC) and the International Accreditation Forum (IAF), certificates issued by SAC accredited product certification bodies are recognised worldwide by MLA members across more than 50 economies.
 
