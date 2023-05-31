@@ -4,14 +4,6 @@ links:
     collection: about
   - title: Industries
     collection: industries
-  - title: Resources
-    collection: resources
-  - title: Media
-    resource_room: true
-  - title: Accredited Organisation
-    collection: accredited-organisation
-  - title: Contact Us
-    url: /contact-us/
   - title: Services
     url: /services/accreditation-services/
     sublinks:
@@ -21,3 +13,11 @@ links:
         url: /services/training/
       - title: Submenu Title
         url: https://sacinet2.enterprisesg.gov.sg/landing
+  - title: Resources
+    collection: resources
+  - title: Media
+    resource_room: true
+  - title: Accredited Organisation
+    collection: accredited-organisation
+  - title: Contact Us
+    url: /contact-us/
