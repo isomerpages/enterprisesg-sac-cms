@@ -14,7 +14,7 @@ description: ""
 
 <span style="font-weight:bold">11 October:</span> 1st SAC Council was appointed.<br>
 
-<span style="font-weight:bold">24 October:</span> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).<br><br>Launch of Accreditation Programme for Quality Management System (QMS) Certification.
+<span style="font-weight:bold">24 October:</span> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).<br>Launch of Accreditation Programme for Quality Management System (QMS) Certification.
 		</td><td rowspan="4" style="font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img height="181" width="552" alt="29 January 1996" src="/images/about/milestone/sac-milestone-1996-10-11.jpg"></td></tr></tbody></table>
 	
 	
