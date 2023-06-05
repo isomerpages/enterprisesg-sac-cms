@@ -1,6 +1,6 @@
 ---
 title: Precision Engineering & Industry 4.0
-permalink: /industries/precision-engineering-and-industry-4/
+permalink: /industries/precision-engineering-and-industry-4-0/
 description: ""
 ---
 ![Precision Engineering Industry](/images/industries/precision-engineering.jpg)
