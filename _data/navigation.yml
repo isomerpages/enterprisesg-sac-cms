@@ -3,7 +3,7 @@ links:
   - title: About
     collection: about
   - title: Industries
-    collection: industries
+    collection: about
   - title: Services
     url: /services/accreditation-services/
     sublinks:
