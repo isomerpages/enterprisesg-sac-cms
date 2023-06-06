@@ -64,7 +64,8 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 
 **Functional Food Testing**
-* Not Found -FFT01-08 Mar 2023
+* [FFT 01 - 08 Mar 2023: General Criteria for Testing of Health-Related Properties of Foods](/files/Documents/Laboratory%20Accreditation/FFT-01_8Mar2023.pdf){:target="\_blank"}
+
 
 
 **Informatiion Technology Testing**
