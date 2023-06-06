@@ -44,7 +44,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 
 **Civil Engineering Testing Field**
-* Not found -CE 001-May2021
+* [CE 001 - May 2021: Specific Requirements for Civil Engineering Testing Laboratories](/files/Documents/Laboratory%20Accreditation/CE-001-1May2021.pdf){:target="\_blank"}
 * [CE 002 - Mar 2019: Specific Requirements for Non-Destructive Testing for Concrete](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/civil-engineering-testing-field/CE-002-29-Mar-2019.pdf){:target="\_blank"}
 * [SAC SINGLAS Technical Guide 3 - Guidance on MU for Civil Engrg and Mech Testing Laboratories](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/civil-engineering-testing-field/Technical-Guide-3-29-Mar-2019.pdf){:target="\_blank"}
 
