@@ -3,34 +3,27 @@ title: Sharifah To Test Accordion
 permalink: /about/sharifah-to-test-accordion/
 description: ""
 ---
-<ul class="jekyllcodex_accordion">  
-  
-<li><input type="checkbox" id="accordion1">  
-<label for="accordion1">1986-1990</label><div> 
-	<table class="tg" style="border-collapse:collapse;border-spacing:0"><tbody><tr><td style="font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">1986<br>November:</span> The Singapore Laboratory Accreditation Scheme (SINGLAS) was launched under the then Singapore Institute of Standards and Industrial Research (SISIR).</td><td style="font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><img height="287" width="436" alt="November 1986" src="/images/about/milestone/sac-milestone-1986-11.jpg"></td></tr><tr><td style="font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:top;word-break:normal"><span style="font-weight:bold">1996
-<br>29 January:</span> Signing of bilateral agreements with National Accreditation for Testing Authorities (NATAS) Australia, Telerc (now called International Accreditation New Zealand, IANZ), American Association for Laboratory Accreditation (A2LA) &amp;amp; Hong Kong Laboratory Accreditation Scheme (HOKLAS) for laboratory accreditation.<br>
+<ul class="jekyllcodex_accordion">
 
-<span style="font-weight:bold">2 February:</span> Singlas hosted APLAC 1st General Assembly.<br>
+<li><input type="checkbox" id="accordion1">
+<label for="accordion1">Enabling Accordion on the schools site</label><div>
+<p>Schools would need to first inform us to enable it on their site. (If you have Accordion on other pages, it means that it is already enabled.)</p>
+</div></li>
 
-<span style="font-weight:bold">11 October:</span> 1st SAC Council was appointed.<br>
+<li><input type="checkbox" id="accordion4">
+<label for="accordion4">New Accordion </label><div>
+<p>This is the new accordion's content</p>
+</div></li>
 
-<span style="font-weight:bold">24 October:</span> SAC was established with the signing of MOU between the Ministry of Trade and Industry (MTI) and the then Singapore Confederation of Industries (SCI).<br>Launch of Accreditation Programme for Quality Management System (QMS) Certification.
-		</td><td rowspan="4" style="font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;text-align:left;vertical-align:middle;word-break:normal"><img height="181" width="552" alt="29 January 1996" src="/images/about/milestone/sac-milestone-1996-10-11.jpg"></td></tr></tbody></table>
-	
-	
-	
-	
-	
-</div></li>  
-  
-<li><input type="checkbox" id="accordion2">  
-<label for="accordion2">1991-2000</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
-<li><input type="checkbox" id="accordion3">  
-<label for="accordion3">2001-2009</label><div>  
-<p>Insert content here</p>  
-</div></li>  
-  
+
+<li><input type="checkbox" id="accordion2">
+<label for="accordion2">Accordion #2</label><div>
+<p>This is the accordion #2's content</p>
+</div></li>
+
+<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Accordion #3</label><div>
+<p>This is the accordion #3's content</p>
+</div></li>
+
 </ul>
