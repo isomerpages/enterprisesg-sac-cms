@@ -37,7 +37,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/Documents/Management%20system%20and%20products%20certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="\_blank"}
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD2-2017.pdf){:target="\_blank"}
 * [IAF MD 4:2022 - IAF Mandatory Document for the Use of (ICT) for Auditing Assessment Purposes](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD4_Issue_2_Version_3_010220221.pdf){:target="\_blank"}
-* jjjjjjjjjjjjjjjjjjjjj
+*[IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and OSHMS](/files/Documents/iaf-md5-issue-4-version-2-11112019.pdf){:target="\_blank"}
 IAF-MD5-Issue-4-Version-2-11112019.pdf (Not found)
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf){:target="\_blank"}
