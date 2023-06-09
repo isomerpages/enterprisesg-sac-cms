@@ -50,7 +50,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Electrical Testing Field**
 
-* [EL 001 - 1 Aug 2022: General Requirements for Electrical Testing Laboratories]{:target="\_blank"}
+* [EL 001 - 1 Aug 2022: General Requirements for Electrical Testing Laboratories{:target="\_blank"}
 * [EL 002 - 1 Aug 2022: Specific Policy for Uncertainty of MU for Accreditation of Elc Testing ](/files/Documents/el002-01aug2022.pdf){:target="\_blank"}
 * [Guidance Note EL 001- Mar 2019 : Guidelines on the Evaluation and Expression of MU for EL Field ](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/electrical-testing-field/Gudiance-Note-EL-001-29-Mar-2019.pdf){:target="\_blank"}
 
