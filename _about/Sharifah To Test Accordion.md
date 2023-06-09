@@ -5,8 +5,8 @@ description: ""
 ---
 <ul class="jekyllcodex_accordion">
 
-<li><input type="checkbox" id="accordion1">
-<label for="accordion1">Enabling Accordion on the schools site</label><div>
+<li><input type="checkbox" id="accordion123">
+<label for="accordion123">Enabling Accordion on the schools site</label><div>
 <p>Schools would need to first inform us to enable it on their site. (If you have Accordion on other pages, it means that it is already enabled.)</p>
 </div></li>
 
@@ -16,8 +16,8 @@ description: ""
 </div></li>
 
 
-<li><input type="checkbox" id="accordion2">
-<label for="accordion2">Accordion #2</label><div>
+<li><input type="checkbox" id="accordion2A">
+<label for="accordion2A">Accordion #2</label><div>
 <p>This is the accordion #2's content</p>
 </div></li>
 
