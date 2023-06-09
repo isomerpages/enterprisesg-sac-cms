@@ -17,8 +17,8 @@ description: ""
 
 
 <li><input type="checkbox" id="accordion2A">
-<label for="accordion2A">Accordion #2</label><div>
-<p>This is the accordion #2's content</p>
+<label for="accordion2A">Accordion #2A</label><div>
+<p>This is the accordion #2A's content</p>
 </div></li>
 
 <li><input type="checkbox" id="accordion3">
