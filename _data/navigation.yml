@@ -1,15 +1,27 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
 logo: /images/isomer-logo.svg
-
 links:
+  - title: About
+    collection: about
+  - title: Industries
+    collection: industries
+  - title: Services
+    url: /services/accreditation-services/
+    sublinks:
+      - title: Accreditation Services
+        url: /services/accreditation-services/
+      - title: Training, Courses & Seminars
+        url: /services/training/
+      - title: e-Services - SACiNet
+        url: https://sacinet2.enterprisesg.gov.sg/
+      - title: e-Services - SAC Knowledge Centre
+        url: https://lms.wizlearn.com/sacelearning
+      - title: Extended Surveillance Initiative
+        url: /services/extended-surveillance-initiative/
+  - title: Resources
+    collection: resources
+  - title: Media
+    resource_room: true
+  - title: Accredited Organisation
+    collection: accredited-organisation
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder

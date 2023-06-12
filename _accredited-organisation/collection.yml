@@ -1,0 +1,5 @@
+collections:
+  accredited-organisation:
+    output: true
+    order:
+      - CAB Status Update.md
