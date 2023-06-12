@@ -72,8 +72,7 @@ A laboratory must be fully conversant and comply with the relevant standards and
 
 **Informatiion Technology Testing**
 * [IT 001 - 2 April 2018: General Requirements for the Accreditation of Info Tech Security Testing Labs](/files/Documents/Laboratory%20Accreditation/testing-and-calibration-documents/information-technology-security-testing/IT-001-02-April-2018.pdf){:target="\_blank"}
-* Not Found - IT 002 - 20 Nov 2020)
-
+* [IT 002 - 20 November 2020: General Requirements for the IT Laboratories for Gaming Testing](){:target="\_blank"}
 
 **Mechanical Testing Field**
 * Not Found - Mech 001- May 2021
