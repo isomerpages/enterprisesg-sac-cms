@@ -65,6 +65,10 @@ SAC HACCP Doc  01.
  
 **Accreditation Scheme for Product Certification:**  This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
 
+   
+
+More information for each accreditation scheme, can be obtained at \[Accreditation Schemes section\](/services/accreditation-services)
+
 
 More information for each accreditation scheme, can be obtained at [Accreditation Schemes section](/services/accreditation-services){:target="\_blank"}
 
