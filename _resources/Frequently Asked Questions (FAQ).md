@@ -30,7 +30,7 @@ Below are some questions and answers that would help you understand what accredi
 
 <p>Accreditation: Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
 
-**Certification:** Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
+Certification: Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
 ILAC and IAF have published an informative article titled “Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace” in Standards Engineering, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.</p>
 
@@ -40,7 +40,7 @@ ILAC and IAF have published an informative article titled “Standards, Conformi
 
 <li><input type="checkbox" id="accordion3">
 
-<label for="accdion3">###What are the benefits of being accredited?</label><div>
+<label for="accdion3">What are the benefits of being accredited?</label><div>
 
 <p>These are some of the key benefits of being accredited.
 
