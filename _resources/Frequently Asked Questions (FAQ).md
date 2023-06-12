@@ -58,13 +58,13 @@ ILAC and IAF have published an informative article titled “Standards, Conformi
 
 <li><input type="checkbox" id="accordion4">
 
-<label for="accordion4">What are the SAC accreditation schemes?
+<label for="accordion4">###What are the SAC accreditation schemes?
 
 </label><div>
 
 <p>Currently SAC operates the following accreditation schemes:
 
-*   Accreditation Scheme for Laboratories (SAC-SINGLAS)&nbsp;This scheme evaluates the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
+*  ** Accreditation Scheme for Laboratories (SAC-SINGLAS):** This scheme evaluates the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
 *   Accreditation Scheme for Inspection Bodies&nbsp;This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
 *   Accreditation Scheme for Management Systems Certification Bodies&nbsp;Quality Management System (QMS):&nbsp;This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
 
