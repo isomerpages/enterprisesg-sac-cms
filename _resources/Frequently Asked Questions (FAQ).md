@@ -31,7 +31,7 @@ Below are some questions and answers that would help you understand what accredi
 
 Certification:  Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
-ILAC and&nbsp; IAF have published an informative article titled \["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"\](http://ilac.org/?download=119879){:target="\_blank"} in \\\*Standards Engineering\\\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and&nbsp; IAF have published an informative article titled  ["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"](http://ilac.org/?download=119879){:target="\_blank"} in \\\*Standards Engineering\\\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
