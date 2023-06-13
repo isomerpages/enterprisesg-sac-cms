@@ -40,7 +40,7 @@ ILAC and IAF have published an informative article titled “Standards, Conformi
 
 <li><input type="checkbox" id="accordion3">
 
-<label for="accdion3">What are the benefits of being accredited?</label><div>
+<label for="accordion3">What are the benefits of being accredited?</label><div>
 
 <p>These are some of the key benefits of being accredited.
 
