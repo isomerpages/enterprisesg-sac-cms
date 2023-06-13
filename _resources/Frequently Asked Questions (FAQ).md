@@ -43,7 +43,7 @@ ILAC and&nbsp; IAF have published an informative article titled  ["Standards, Co
 
 <p>These are some of the key benefits of being accredited.
 
-\*\*Building Trust:\*\* In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
+Building Trust:  In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
 
 \*\*International Recognition:\*\* Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/insections if you are an accredited laboratory or inspection body.
 
