@@ -143,7 +143,7 @@ There will also be periodic surveillance assessments to ensure your continued co
 
 Frequently Asked Questions on Singapore GLP Compliance Programme
 
-<ul class="jekyllcodex\_accordion">
+<ul class="jekyllcodex_accordion">
 
 <li><input type="checkbox" id="accordion1g">
 
