@@ -27,7 +27,11 @@ ILAC and IAF have published an informative article titled <a target="_blank" hre
 		<p>
 </p><ul><li>Accreditation is the endorsement by an authoritative body (such as SAC)</li>
 <li>An organisation’s competence, credibility, independence and integrity in carrying out its conformity assessment activities</li>
-<li>Such as testing, calibration, inspection and certification.</li></ul><p></p>
+<li>Such as testing, calibration, inspection and certification.</li></ul>
+	<ol><li>Accreditation is the endorsement by an authoritative body (such as SAC)</li>
+<li>An organisation’s competence, credibility, independence and integrity in carrying out its conformity assessment activities</li>
+<li>Such as testing, calibration, inspection and certification.</li></ol>
+		<p></p>
 </div></li>
 	
  
