@@ -15,6 +15,7 @@ Below are some questions and answers that would help you understand what accredi
 
 <ul class="jekyllcodex_accordion">
   
+   
 
 <li><input type="checkbox" id="accordion1">
 
@@ -32,6 +33,8 @@ Below are some questions and answers that would help you understand what accredi
 
 <b>Certification:</b> Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
+<br>
+
 ILAC and&nbsp; IAF have published an informative article titled \["Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace"\](http://ilac.org/?download=119879){:target="\_blank"} in \\\*Standards Engineering\\\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
@@ -44,13 +47,23 @@ ILAC and&nbsp; IAF have published an informative article titled \["Standards, Co
 
 <p>These are some of the key benefits of being accredited.
 
+<br>
+
 <b>Building Trust:</b> In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
+
+<br>
 
 <b>International Recognition:</b> Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/insections if you are an accredited laboratory or inspection body.
 
+<br>
+
 <b>Minimises Risk:</b> Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations.
 
+<br>
+
 <b>Reduce Costs:</b> Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc.
+
+<br>
 
 <b>Demonstrate Credibility:</b> No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competent personnel.</p>
 
@@ -62,29 +75,45 @@ ILAC and&nbsp; IAF have published an informative article titled \["Standards, Co
 
 <p>Currently SAC operates the following accreditation schemes:
 
+<br>
+
 \*-<b>Accreditation Scheme for Laboratories (SAC-SINGLAS</b>
 
 This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
+
+&nbsp;<br>
 
 \* -<b>Accreditation Scheme for Inspection Bodies</b>
 
 This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
 
+&nbsp;<br>
+
 \* -<b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
+
+<br>
 
 \-<b>Business Continuity Management System (BCM):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 540 or ISO 22301 certification, based on the general requirements of ISO/IEC 17021 and CT 08 - SAC Criteria for Certification Bodies (BCM).
 
+<br>
+
 \-<b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements of ISO/IEC 17021 and CT 10 - SAC Criteria for Certification Bodies (ENMS).
 
-\-<b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents.
+<br>
 
-\-<b>Occupational Safety and Health Management System (OSHMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC Criteria for Certification Bodies (OSHMS).
+\-<b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandator<br>and Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC Criteria for Certification Bodies (OSHMS).
+
+<br>
 
 \-<b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
 
+<br>
+
 \-<b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
 
-\-<b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
+&nbsp;<br>\-<b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
+
+<br>
 
 More information for each accreditation scheme, can be obtained at \[Accreditation Schemes section\](/services/accreditation-services){:target="\\\_blank"}</p>
 
@@ -96,13 +125,23 @@ More information for each accreditation scheme, can be obtained at \[Accreditati
 
 <p>The general procedure to obtain accreditation is as below:
 
+<br>
+
 \-<b>Enquiry and Formal Application</b> Applicants will submit an application form to SAC with the necessary documents and a non-refundable application fee. An SAC Officer will contact the applicant and make the necessary arrangements.
+
+<br>
 
 \-<b>Preliminary Assessment (Optional)</b> An SAC assessor will conduct a preliminary assessment to check if the applicant is ready to be accredited.
 
+<br>
+
 \-<b>Initial Assessment:</b> A team consisting of SAC assessor and/or technical experts will conduct the initial assessment.
 
+<br>
+
 \-<b>Recommendation by Assessment Team:</b> The team will make a recommendation to the Review Committee for accreditation decision if the applicant has rectified any non-conformity satisfactorily.
+
+<br>
 
 \-<b>Award of Accreditation:</b> If the Review Committee is agreeable with the recommendation of the assessment team, the applicant will be granted accreditation and issued with a certificate of accreditation. t</p>
 
@@ -122,6 +161,8 @@ More information for each accreditation scheme, can be obtained at \[Accreditati
 
 <p>If you are accredited, you will be able to use the SAC Accreditation Mark and offer your products or services with confidence both nationally and worldwide. You can also make use of the ILAC or IAF MRA mark. In addition, your company and the scope of accreditation will be listed in the SAC Directory and website, where companies and regulators visit to source for reliable providers.&nbsp;
 
+<br>
+
 There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.</p>
 
 </div></li>
@@ -135,7 +176,6 @@ There will also be periodic surveillance assessments to ensure your continued co
 </div></li>
 
 </ul>
-
 
 
 ### Frequently Asked Questions on Singapore GLP Programmes
