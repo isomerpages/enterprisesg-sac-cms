@@ -14,8 +14,7 @@ Below are some questions and answers that would help you understand what accredi
    
 
 <ul class="jekyllcodex_accordion">
-
-   
+  
 
 <li><input type="checkbox" id="accordion1">
 
