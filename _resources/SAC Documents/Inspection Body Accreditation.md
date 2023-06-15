@@ -30,8 +30,15 @@ An inspection body must be fully conversant and comply with the relevant standar
 **Cargo Inspection Field**
 * [Technical Note CI 01: 30 Mar 2023 - Specific Requirements for the Accreditation of IB for Cargo](/files/Documents/Inspection%20body%20accreditation/ci_01-30mar2023.pdf){:target="\_blank"}
 
+
+**Central Alarm Monitoring Stations Inspection Field**
+
+* [Technical Note: CAMS-01: 09 Jul 2018 - Specific Requirements for the Accreditation of IB for CAMS](/files/Documents/Inspection%20body%20accreditation/CAMS-01-(09-July-2018).pdf)
+
+
+
 **Motor Vehicle Inspection Field**
-* [Technical Note: MV-01-(09-July-2018).pdf](/files/Documents/Inspection%20body%20accreditation/MV-01-(09-July-2018).pdf){:target="\_blank"}
+* [[Technical Note: MV 01: 09 July 2018 - Specific Requirements for Accreditation of Motor Vehicles Inspection[(/files/Documents/Inspection%20body%20accreditation/MV-01-(09-July-2018).pdf){:target="\_blank"}
 
 **Pressure Vessel / Lifting Equipment Inspection Field**
 * [Technical Note: PV/LE: June 2018 - Specific Requirements for PVLE Inspection](/files/Documents/Inspection%20body%20accreditation/Technical-Note-PVLE-01-(05-June-2018).pdf){:target="\_blank"}
