@@ -146,9 +146,7 @@ ILAC and&nbsp; IAF have published an informative article titled \["Standards, Co
 
 <br>
    
- 
-More information for each accreditation scheme, can be obtained at \[Accreditation Schemes section\](/services/accreditation-services){:target="\_blank"}</p>	
-	
+More information for each accreditation scheme, can be obtained at {Accreditation Schemes section}(/services/accreditation-services){:target="\_blank"}</p>	
 	
 </div></li>
 
