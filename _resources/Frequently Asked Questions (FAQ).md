@@ -136,9 +136,10 @@ ILAC and&nbsp; IAF have published an informative article titled \["Standards, Co
 <br>
 
 <b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
+	  
+<br> 
+<br>
 
-	
-&nbsp;<br>&lt;&lt;
 <b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
 
 <br>
