@@ -94,19 +94,13 @@ ILAC and&nbsp; IAF have published an informative article titled \["Standards, Co
 <br>
 
 <br>
-
-\*-<b>Accreditation Scheme for Laboratories (SAC-SINGLAS</b>
-
-This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
-
+ 
+* <b>Accreditation Scheme for Laboratories (SAC-SINGLAS</b>This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
 &nbsp;<br>
 
 <br>
 
-\* -<b>Accreditation Scheme for Inspection Bodies</b>
-
-This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
-
+* <b>Accreditation Scheme for Inspection Bodies</b>This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
 &nbsp;<br>
 
 <br>
