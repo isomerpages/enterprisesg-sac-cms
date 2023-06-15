@@ -25,9 +25,9 @@ ILAC and IAF have published an informative article titled <a target="_blank" hre
 	<li><input type="checkbox" id="accordion3">
 <label for="accordion3">Bullets</label><div>
 		<p>
-* Accreditation is the endorsement by an authoritative body (such as SAC)
-* 	An organisation’s competence, credibility, independence and integrity in carrying out its conformity assessment activities, 
-* 	Such as testing, calibration, inspection and certification.</p>
+</p><ul><li>Accreditation is the endorsement by an authoritative body (such as SAC)</li>
+<li>An organisation’s competence, credibility, independence and integrity in carrying out its conformity assessment activities</li>
+<li>Such as testing, calibration, inspection and certification.</li></ul><p></p>
 </div></li>
 	
  
