@@ -15,7 +15,7 @@ description: ""
 <li><input type="checkbox" id="accordion2">
 <label for="accordion2">What are the benefits of being accredited?</label><div>
 <p><b>Accreditation:</b> Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
- 
+ <br>
 	
 <b>Certification:</b> Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
  
