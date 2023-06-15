@@ -16,6 +16,7 @@ Below are some questions and answers that would help you understand what accredi
 <ul class="jekyllcodex_accordion">
   
    
+   
 
 <li><input type="checkbox" id="accordion1">
 
@@ -30,6 +31,8 @@ Below are some questions and answers that would help you understand what accredi
 <label for="accordion2">What is the difference between accreditation and certification?</label><div>
 
 <p><b>Accreditation:</b> Accreditation is the formal recognition by an accreditation authority of the technical and organisational competence of a conformity assessment body to carry out a specific service in accordance to the standards and technical regulations as described in their scope of accreditation.
+
+<br>
 
 <b>Certification:</b> Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
 
@@ -176,7 +179,6 @@ There will also be periodic surveillance assessments to ensure your continued co
 </div></li>
 
 </ul>
-
 
 ### Frequently Asked Questions on Singapore GLP Programmes
 
