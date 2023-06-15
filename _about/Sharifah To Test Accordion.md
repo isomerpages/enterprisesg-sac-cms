@@ -19,7 +19,7 @@ description: ""
 	
 <b>Certification:</b> Certification is the procedure by which a third party gives written assurance that a product, process, system or person conforms to specified requirements.
  
-ILAC and IAF have published an informative article titled “Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace” in Standards Engineering, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.</p>
+ILAC and IAF have published an informative article titled <a target="_blank" href="http://ilac.org/?download=119879">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> in Standards Engineering, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.</p>
 </div></li>
  
  
