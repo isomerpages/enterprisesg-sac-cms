@@ -22,5 +22,13 @@ description: ""
 ILAC and IAF have published an informative article titled <a target="_blank" href="http://ilac.org/?download=119879">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> in Standards Engineering, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.</p>
 </div></li>
  
+	<li><input type="checkbox" id="accordion3">
+<label for="accordion3">Bullets</label><div>
+		<p>
+* Accreditation is the endorsement by an authoritative body (such as SAC)
+* 	An organisation’s competence, credibility, independence and integrity in carrying out its conformity assessment activities, 
+* 	Such as testing, calibration, inspection and certification.</p>
+</div></li>
+	
  
 </ul>
