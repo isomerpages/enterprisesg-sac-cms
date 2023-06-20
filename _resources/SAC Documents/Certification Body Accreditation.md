@@ -29,8 +29,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 15 - SAC Criteria for CBs (Management of end-of-life ICT Equipment) - 29 March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-15-(29-March-2019).pdf){:target="\_blank"}
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf)
 {:target="\_blank"}
-* [CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/ct-18-01-june-2021.pdf){:target="\_blank"}
-* [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021]{:target="\_blank"}
+* CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/ct-18-01-june-2021.pdf){:target="\_blank"}
+* CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021]{:target="\_blank"}
 * [CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021](/files/Documents/ct-25-16-nov-2021.pdf){:target="\_blank"}
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
