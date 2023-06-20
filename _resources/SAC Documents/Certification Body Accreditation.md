@@ -30,7 +30,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [CT 16 - SAC Criteria for Certification Bodies (Asset Management) – March 2019](/files/Documents/Management%20system%20and%20products%20certification/CT-16-(29-March-2019).pdf)
 {:target="\_blank"}
 * [CT 18 - SAC Criteria for Certification Bodies (MDQMS) - June 2021](/files/Documents/ct-18-01-june-2021.pdf){:target="\_blank"}
-* [CT 21 - SAC Criteria for Certification Bodies (Anti-Bribery Management System) - June 2021]{:target="\_blank"}
+* 
 * [CT 25 - SAC Criteria for Certification Bodies (Cold Chain Management System) - November 2021](/files/Documents/ct-25-16-nov-2021.pdf){:target="\_blank"}
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
@@ -49,7 +49,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="\_blank"}
 * [IAF MD 22:2019 - Application of ISO/IEC 17021-1 for the Certification of OSHMS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD22-Issue-2-07052019.pdf){:target="\_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="\_blank"}
-
+*
 
 IAF-MD-2-Issue-1.pdf - Not found
 IAF_MD26_Issue_2_15012023.pdf - Not found
