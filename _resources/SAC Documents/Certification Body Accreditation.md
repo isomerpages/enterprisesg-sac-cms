@@ -4,7 +4,6 @@ permalink: /resources/sac-documents/certification-body-accreditation/
 description: ""
 third_nav_title: SAC Documents
 ---
-[CT 09 - SAC Criteria for Certification Bodies (QMBS - April 2022](/files/Documents/ct-09-07april2022.pdf){: #publications-list}
 A certification body must be fully conversant and comply with the relevant standards and criteria to be accredited. The standards, specific criteria and related documents for the SAC accreditation are as below:
 
 ### Publications for All Certification Programmes
