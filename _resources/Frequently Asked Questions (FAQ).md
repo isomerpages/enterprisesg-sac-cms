@@ -41,7 +41,7 @@ Below are some questions and answers that would help you understand what accredi
 
 <br>
 
-ILAC and&nbsp; IAF have published an informative article titled <a target="”_blank”" href="”http://ilac.org/?download=119879”">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> *Standards Engineering\\\*, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
+ILAC and&nbsp; IAF have published an informative article titled <a target="”_blank”" href="”http://ilac.org/?download=119879”">“Standards, Conformity Assessment and Accreditation: the Pillars of Assurance in the Global Marketplace”</a> <i>Standards Engineering</i>, a bimonthly journal from the Society of Standards Professionals (SES). It explains the differences between standards, certification and accreditation, and how they form the framework to deliver confidence to regulators, industry and end-users.
 
 <!-- COMMENT: The {:target="\\\_blank"} syntax at the end of the Markdown webpage URL is used to open the URL in a new window tab --></p>
 
