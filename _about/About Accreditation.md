@@ -3,6 +3,8 @@ title: About Accreditation
 permalink: /about/about-accreditation/
 description: ""
 ---
+<a href="”Add">Add text here</a>
+
 ## What is Accreditation?
 
 ![about accreditation](/images/about/about-accreditation.jpg)
