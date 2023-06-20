@@ -50,6 +50,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 22:2019 - Application of ISO/IEC 17021-1 for the Certification of OSHMS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD22-Issue-2-07052019.pdf){:target="\_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD23-Control-of-Entities-08052018.pdf){:target="\_blank"}
 
+
 IAF-MD-2-Issue-1.pdf - Not found
 IAF_MD26_Issue_2_15012023.pdf - Not found
 IAF-PL9-Issue-1-14112019.pdf - Not found
