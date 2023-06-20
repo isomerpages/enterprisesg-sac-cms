@@ -92,20 +92,24 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <p>Currently SAC operates the following accreditation schemes:
 
 <br>
-
 <br>
  
-<b> Accreditation Scheme for Laboratories (SAC-SINGLAS: </b>This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.
+	
+</p><ul>&nbsp;
+
+	
+<b></b><li><b> Accreditation Scheme for Laboratories (SAC-SINGLAS: </b>This scheme&nbsp; evaluate s the technical competence of testing and calibration laboratories based on the general requirements of ISO/IEC 17025 and specific technical requirements of each field. For medical testing and medical imaging laboratory, the standard is ISO 15189.</li>
 &nbsp;<br>
 
 <br>
 
-<b>Accreditation Scheme for Inspection Bodies</b>This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
-&nbsp;<br>
-
+<b></b><li><b>Accreditation Scheme for Inspection Bodies</b>This scheme evaluates the technical competence of inspection bodies based on the general requirements of ISO/IEC 17020 and specific technical requirements of each field.
+&nbsp;</li>
+<br>
 <br>
 
-<b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).
+<b></b><li><b>Accreditation Scheme for Management Systems Certification Bodies Quality Management System (QMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 9001certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatory Documents. The scheme also covers the certification of bunker suppliers (SS 524) and the certification of good distribution practice of medical devices (GDPMDS).</li>
+</ul>
 
 <br>
 
@@ -146,7 +150,7 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 
 <br>
    
-More information for each accreditation scheme, can be obtained at {Accreditation Schemes section}(/services/accreditation-services){:target="\_blank"}</p>	
+More information for each accreditation scheme, can be obtained at {Accreditation Schemes section}(/services/accreditation-services){:target="\_blank"}<p></p>	
 	
 </div></li>
 
