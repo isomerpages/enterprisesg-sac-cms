@@ -119,7 +119,7 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
    
 More information for each accreditation scheme, can be obtained at 
 	
-[Accreditation Sche[mes section](/services/accreditation-services){:target="_blank"}<p></p>	
+[Accreditation Schemes section](/services/accreditation-services){:target="_blank"}<p></p>	
 	
 </div></li>
 
