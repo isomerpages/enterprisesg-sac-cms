@@ -125,7 +125,9 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
 
    
-More information for each accreditation scheme, can be obtained at {Accreditation Schemes section}(/services/accreditation-services){:target="\_blank"}<p></p>	
+More information for each accreditation scheme, can be obtained at 
+	
+[Accreditation Sche[mes section](/services/accreditation-services){:target="_blank"}<p></p>	
 	
 </div></li>
 
