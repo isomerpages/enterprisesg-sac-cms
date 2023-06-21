@@ -60,25 +60,17 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <b>Building Trust:</b> In the global industry, customers are becoming more demanding and seeking assurances on the products and services that you provide them. By getting accreditation, your customers will have the confidence in the quality of products and services that you provide. This will enable you to build trust between you and your customer.
 
 <br>
-
 <br>
-
 <b>International Recognition:</b> Through the various mutual recognition arrangements between accreditation bodies, overseas markets will accept your company more readily if they know that you have been certified by an SAC-accredited certification body or accept your test results/insections if you are an accredited laboratory or inspection body.
-
 <br>
-
 <br>
 
 <b>Minimises Risk:</b> Accredited organisations reduce the risk of providing unreliable test results, services and products, and are able to meet the customers' expectations.
-
 <br>
-
 <br>
 
 <b>Reduce Costs:</b> Although accreditation comes at a cost, the cost savings that result from being accredited will outweigh the cost of accreditation. Cost savings may result from improved productivity, reduced downtime, less re-testing, etc.
-
 <br>
-
 <br>
 
 <b>Demonstrate Credibility:</b> No organisation will want to spend money on getting a report or certificate that has not been accredited by a competent body. An SAC-accredited organisation is able to demonstrate competence for the report or certificate through its sound management system and the use of trained and competent personnel.</p>
@@ -90,7 +82,6 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <label for="accordion4"> What are the SAC accreditation schemes?</label><div>
 
 <p>Currently SAC operates the following accreditation schemes:
-
 <br>
 <br>
  	
@@ -115,13 +106,14 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 	<br>
 <b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC CriteriCertification Bodies (OSHMS).
 <br>
-
+<br>
+	
 <b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
 <br>
-
+<br>
 <b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
 <br>
-
+<br>
 <b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
 
    
