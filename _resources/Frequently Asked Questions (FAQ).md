@@ -182,9 +182,6 @@ More information for each accreditation scheme, can be obtained at
 <label for="accordion7">What happens after getting accredited?</label><div>
 
 <p>If you are accredited, you will be able to use the SAC Accreditation Mark and offer your products or services with confidence both nationally and worldwide. You can also make use of the ILAC or IAF MRA mark. In addition, your company and the scope of accreditation will be listed in the SAC Directory and website, where companies and regulators visit to source for reliable providers.&nbsp;
-
-<br>
-
 <br>
 
 There will also be periodic surveillance assessments to ensure your continued compliance with the scope of accreditation. The accreditation certificate will also require renewal periodically and the renewal period will depend on the terms and conditions of the accreditation scheme.</p>
