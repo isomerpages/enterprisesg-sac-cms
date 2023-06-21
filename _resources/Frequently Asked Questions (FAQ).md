@@ -117,20 +117,13 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 <br>
 
 <b>HACCP based Food Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing&nbsp; SAC HACCP Doc 2 certification, based on the general requirements of ISO/IEC 17021 and&nbsp; SAC HACCP Doc&nbsp; 01.
-
 <br>
 
 <b>Food Safety Management System:</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 22000 certification, based on the general requirements of ISO/TS 22003 and CT 07 - SAC Criteria for Certification Bodies (FSMS).
-	  
-<br> 
-
 <br>
 
 <b>Accreditation Scheme for Product Certification:</b>&nbsp; This scheme evaluates the technical competence, integrity and independence of product certification bodies, based on the general requirements of ISO/IEC 17065 and IAF Guidance.
 
-<br>
-
-<br>
    
 More information for each accreditation scheme, can be obtained at {Accreditation Schemes section}(/services/accreditation-services){:target="\_blank"}<p></p>	
 	
