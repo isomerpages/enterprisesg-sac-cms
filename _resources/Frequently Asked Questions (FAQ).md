@@ -112,6 +112,7 @@ ILAC and&nbsp; IAF have published an informative article titled <a target="”_b
 
 <b>Energy Management System (ENMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 50001 certification, based on the general requirements n Bodies (ENMS) SAC Criteria for Certifi.cation Bodies (ENMS)
 <br>
+	<br>
 <b>Environmental Management System (EMS):</b> This scheme evaluates the technical competence, integrity and independence of certification bodies providing ISO 14001 certification, based on the general requirements of ISO/IEC 17021 and IAF Mandatoryand Health Management System (OSHMS): This scheme evaluates the technical competence, integrity and independence of certification bodies providing SS 506 Part 1 and SS 506 Part 3 certification, based on the general requirements of ISO/IEC&nbsp; 17021 and CT 02 - SAC CriteriCertification Bodies (OSHMS).
 <br>
 
