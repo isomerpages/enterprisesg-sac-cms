@@ -56,9 +56,13 @@ From left to right, panel 1 speakers - Mr Jagadish CV (moderator), Professor Yeo
 
 The second panel discussion covered the importance and benefits of digitalisation and automation. Associate Professor Tan Chuan Hoo, Deputy Head for the Department of Information Systems and Analytics at National University of Singapore, highlighted that digitalisation tools need not be sophisticated software and/or machineries – instead, SMEs (including CABs) can tap on low-cost IT solutions that are readily available in the market to ramp up business productivity. Dr Yong Chern Chet, BDM Healthcare at Amazon Web Services, provided a 4P framework to encourage CABs to rethink their digitalisation efforts: i) Review physical processes to reduce reliance on manpower, ii) identify possibility of doing things in parallel instead of sequentially with the help of IT solutions, iii) leverage an IT platform to boost productivity, and iv) partner with other stakeholders to achieve the same outcomes. Mr Gilbert Chuah, General Manager at Geonamics Pte Ltd, shared about his company’s automation journey, where it participated in the National Robotics Programme to develop a Robotic Integrated Total System for conventional instrumentation and monitoring works. He noted that smaller-sized CABs tend to focus more on daily operations and deprioritise digitalisation projects due to reasons such as cost and manpower constraints. However, it is ssential for them to take that first step and dedicate resources to digitalise and initiate change. The benefits will then follow and yield over time. 
 
+![Picture6](/images/press-release/photos/Picture6.jpg)
 
- !\[Picture6.jpg\](/images/press-release/photos/Picture6.jpg)
+
 From left to right, panel 2 speakers - Mr Amos Leong (moderator), Associate Professor Tan Chuan Hoo, Dr Yong Chern Chet and Mr Gilbert Chuah.
+
+
+
 
 
 The SAC would like to extend our heartfelt appreciation to all speakers for their insightful sharing and to both SAC Deputy Chairmen, Mr Jagadish CV and Mr Amos Leong, for moderating the panel discussions.
