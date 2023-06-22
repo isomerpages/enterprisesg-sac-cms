@@ -38,11 +38,11 @@ As part of the event keynote address, Professor Yeoh Lean Weng, Chief Sustainabi
 
 
 The SAC Customer Day 2022 also featured two panel discussions where esteemed industry speakers shared insights on global sustainability trends, how TIC services will continue to be critical in instilling trust and assurance in businesses and products/services, as well as how 
-CABs should seek to increase productivity through digitalisation and automation.
+CABs should seek to increase productivity through digitalisation and automatiom.
 
 
-![Picture4](/images/press-rease/photos/Picture4.jpg)
- 
+![Picture4](/images/press-release/photos/Picture4.jpg)
+
    
  Professor Yeoh Lean Weng giving his keynote presentation.
 '
