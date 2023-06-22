@@ -79,12 +79,6 @@ List of newly accredited bodies
 
 
 
-
-
-
-
-
-
 We look forward to seeing you at the next edition of SAC Customer Day!
 
 If you are looking to get accredited, do email us at sac@enterprisesg.gov.sg for more information.
