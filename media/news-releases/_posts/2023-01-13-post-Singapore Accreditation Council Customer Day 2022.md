@@ -77,6 +77,11 @@ List of newly accredited bodies
 [SAC Congratulatory Ad for Customer Day 2022](/files/documents/Newly accredited CABs 2023.pdf){:target="_blank"} 
 
 
+List of newly accredited bodies 
+[SAC Congratulatory Ad for Customer Day 2022](Newly%20accredited%20CABs%202023.pdf){:target="_blank"} 
+
+
+
 
 
 
