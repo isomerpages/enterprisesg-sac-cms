@@ -55,9 +55,9 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf)
 
-* [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance](/files/iaf-md-15-issue1-version2-2023.pdf)
+* [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance](/files/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 
-* [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs](/files/iaf-md-16-issue1-version3-2023.pdf)
+* [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs](/files/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 
 
 
@@ -65,9 +65,9 @@ A certification body must be fully conversant and comply with the relevant stand
 
 
 
-* [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf)
+* [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf){:target="_blank"}
 
-* [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.pdf)
+* [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.  pdf)
 
 
 
