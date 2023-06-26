@@ -55,8 +55,10 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf)
 
+* [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance](/files/iaf-md-15-issue1-version2-2023.pdf)
 
-* [IAF MD 12:2023 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
+
+
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System Certification Bodies' Performance](/files/documents/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of Food Safety Management Systems(FSMS) Certification Bodies](/files/documents/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
