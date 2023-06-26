@@ -34,19 +34,11 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
 
-
 * [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.pdf){:target="_blank"}
-
 * [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/Documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
-
-
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf)
-
-
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
-
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
-
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)](/files/iaf-md-9-issue4-version2-2023.pdf)
@@ -59,11 +51,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs](/files/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 
-
-
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
-
-
 
 * [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf):target="_blank"}
 
@@ -72,7 +60,11 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf)
 
-* [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/documents/IAF_MD26_Issue_2_15012023.pdf){:target="_blank"}
+
+
+* [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-2023.pdf)
+
+
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/documents/iaf-pl-9-issue1-version2-2023.pdf){:target="_blank"}
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 
