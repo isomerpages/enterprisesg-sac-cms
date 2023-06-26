@@ -34,6 +34,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
 
+* 
+
+
 * [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/Documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf)
@@ -58,11 +61,10 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.  pdf){:target="_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
 
-* [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf)
+* [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf){:target="_blank"}
 
 
-
-* [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf)
+* [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf){:target="_blank"}
 
 * [Assessment Checklist (ISO/IEC 17021-1) - Jan 2016](/files/documents/management-system-and-products-certification/17021-1-checklist-Jan-16.doc){:target="_blank"}
 
