@@ -40,8 +40,11 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/Documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
 
 
-* [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
+
 * [IAF MD 4:2023 - Use of Information and Communication Technology (ICT) for Auditing Assessment Purposes](/files/documents/iaf-md-4-issue2-version4-2023.pdf){:target="_blank"}
+
+
+
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
