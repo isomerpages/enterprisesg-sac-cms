@@ -34,9 +34,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
 
-* 
-
-
 * [IAF MD 1:2023 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/documents/iaf-md-1-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/Documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf)
@@ -48,7 +45,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
 
-* [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf)
+* [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
 
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance](/files/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
 
