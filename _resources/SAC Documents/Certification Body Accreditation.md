@@ -46,7 +46,8 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf)
 
 
-* [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
+
+
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/iaf-md-9-issue4-version2-2023.pdf){:target="_blank"}
