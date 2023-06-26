@@ -40,10 +40,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf){:target="_blank"}
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
-* [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
 
-* [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)](/files/iaf-md-9-issue4-version2-2023.pdf)
-
+* [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf){:target="\_blank"}
+* [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)](/files/iaf-md-9-issue4-version2-2023.pdf){:target="\_blank"}
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
 
 * [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
@@ -103,8 +102,13 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 4:2022 - IAF Mandatory Document for the Use of (ICT) for Auditing Assessment Purposes](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD4_Issue_2_Version_3_010220221.pdf){:target="\_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and OSHMS](/files/Documents/iaf-md5-issue-4-version-2-11112019.pdf){:target="\_blank"}
-* [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
+* [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-
+
+
+* 03-2014.pdf){:target="\_blank"}
+
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD7-2010.pdf){:target="\_blank"}
+
 * [IAF MD 9:2022 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD9_Issue_4_01022022.pdf){:target="\_blank"}
 * [IAF MD 9:2017 - Application of ISO/IEC 17021-1 in the Field of MDQMS (ISO 13485)](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD9-(2017).pdf){:target="\_blank"}
 * [IAF MD 11:2013 - For the Application of ISO/IEC/IEC 17021 for Audits of Integrated MS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-11-v3.pdf){:target="\_blank"}
