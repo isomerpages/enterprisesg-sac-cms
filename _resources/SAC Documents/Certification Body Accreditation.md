@@ -45,7 +45,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf)
 
-
+* [IAF MD 6:2023 - Application of ISO 14065:2013](/files/iaf-md-6-issue2-version2-2023.pdf)
 
 
 * [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
