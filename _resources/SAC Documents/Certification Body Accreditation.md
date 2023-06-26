@@ -51,7 +51,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 * [IAF MD 16:2023 - Application of ISO/IEC 17011 for the Accreditation of FSMS CBs](/files/iaf-md-16-issue1-version3-2023.pdf){:target="_blank"}
 
-* [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/documents/management-system-and-products-certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="_blank"}
+* [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="\_blank"}
 
 * [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf):target="_blank"}
 
@@ -59,6 +59,10 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
 
 * [IAF MD 26:2023 - Transition Requirements for ISO/IEC 27001:2022](/files/Documents/iaf_md26_issue_2_15012023.pdf){:target="_blank"}
+
+
+
+
 
 
 * [IAF PL 9:2019 - General Principles for the Use of The IAF CERTSEARCH Mark](/files/iaf-pl-9-issue1-version2-023.pdf){:target="_blank"}
@@ -115,7 +119,9 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 12:2016 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-12.pdf){:target="\_blank"}
 * [IAF MD 15:2014 - IAF Mandatory Doc for the Collection of Data to provide Indicators of MS CB’ Perf](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-15.pdf){:target="\_blank"}
 * [IAF MD 16:2015 - Application of ISO/IEC 17011 for the Accreditation of FSMS Certification Bodies](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD-16.pdf){:target="\_blank"}
+
 * [IAF MD 21:2022 - Requirements for the Migration to ISO 45001:2018 from OHSAS 18001:2007](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD21_Migration_to_ISO_45001_2018_Pub_Version_3_01022022.pdf){:target="\_blank"}
+
 * [IAF MD 22:2019 - Application of ISO/IEC 17021-1 for the Certification of OSHMS](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD22-Issue-2-07052019.pdf){:target="\_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/Documents/iaf-md-2-issue-1.pdf){:target="\_blank"}
 * [IAF MD 23:2018 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/Documents/iaf-md23-control-of-entities-08052018.pdf)
