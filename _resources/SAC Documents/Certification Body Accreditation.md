@@ -45,9 +45,6 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)](/files/iaf-md-9-issue4-version2-2023.pdf){:target="\_blank"}
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/Documents/iaf-md-11-issue1-version4-2023.pdf)
 
-
-* [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
-
 * [IAF MD 12:2023 - Accreditation Assessment of CABs with Activities in Multiple Countries](/files/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
 
 * [IAF MD 15:2023 - Collection of Data to provide Indicators of Management System CBs' Performance](/files/iaf-md-15-issue1-version2-2023.pdf){:target="_blank"}
