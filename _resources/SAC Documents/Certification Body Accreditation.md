@@ -43,13 +43,14 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf)
 
 
-* [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf)
+* [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
 
-* [IAF MD 6:2023 - Application of ISO 14065:2013](/files/iaf-md-6-issue2-version2-2023.pdf)
+* [IAF MD 6:2023 - Application of ISO 14065:2013](/files/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 
-
-* [IAF MD 6:2023 - Application of ISO 14065:2013](/files/documents/iaf-md-6-issue2-version2-2023.pdf){:target="_blank"}
 * [IAF MD 7:2010 - Harmonization of Sanctions to be applied to Conformity Assessment Bodies](/files/documents/management-system-and-products-certification/IAF-MD7-2010.pdf){:target="_blank"}
+
+* [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device QMS (ISO 13485)](/files/iaf-md-9-issue4-version2-2023.pdf)
+
 * [IAF MD 9:2023 - Application of ISO/IEC 17021-1 in the Field of Medical Device Quality Management Systems (ISO 13485)](/files/documents/iaf-md-9-issue4-version2-2023.pdf){:target="_blank"}
 * [IAF MD 11:2023 - For the Application of ISO/IEC 17021 for Audits of Integrated Management Systems](/files/documents/iaf-md-11-issue1-version4-2023.pdf){:target="_blank"}
 * [IAF MD 12:2023 - Accreditation Assessment of Conformity Assessment Bodies with Activities in Multiple Countries](/files/documents/iaf-md-12-issue2-version2-2023.pdf){:target="_blank"}
