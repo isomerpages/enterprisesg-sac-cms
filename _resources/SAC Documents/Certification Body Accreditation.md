@@ -34,7 +34,12 @@ A certification body must be fully conversant and comply with the relevant stand
 * [Management Systems Fees Schedule - 5 July 2018](/files/Documents/Management%20system%20and%20products%20certification/MS-Fees-Schedule-(MSDOC04)-5-July-2018.pdf){:target="\_blank"}
 * [HACCP Document 1 - Requirements for HACCP Auditing Methodology and Criteria for Auditors - May 2019](/files/Documents/Management%20system%20and%20products%20certification/SAC-HACCP-Doc-1_28-May-2019.pdf){:target="\_blank"}
 * [IAF MD 1:2018 - Audit and Certification of a Management Sysem Operated by a Multi-Site Organisation](/files/Documents/Management%20system%20and%20products%20certification/MD-1-Issue-2-Jan-2018-Pub-29-01-2018.pdf){:target="\_blank"}
+
+* [IAF MD 2:2023 - Transfer of Accredited Certification of Management Systems](/files/documents/iaf-md-2-issue2-version2-2023.pdf){:target="_blank"}
+
+
 * [IAF MD 2:2017 - Transfer of Accredited Certification of Management Systems](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD2-2017.pdf){:target="\_blank"}
+
 * [IAF MD 4:2022 - IAF Mandatory Document for the Use of (ICT) for Auditing Assessment Purposes](/files/Documents/Management%20system%20and%20products%20certification/IAF_MD4_Issue_2_Version_3_010220221.pdf){:target="\_blank"}
 * [IAF MD 5:2019 - Determination of Audit Time of Quality, Environmental, and OSHMS](/files/Documents/iaf-md5-issue-4-version-2-11112019.pdf){:target="\_blank"}
 * [IAF MD 6:2014 - Application of ISO 14065:2013](/files/Documents/Management%20system%20and%20products%20certification/IAF-MD6-2014-Issue-2-Publication-23-03-2014.pdf){:target="\_blank"}
