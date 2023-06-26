@@ -43,10 +43,7 @@ A certification body must be fully conversant and comply with the relevant stand
 * [IAF MD 4:2023 - Use of ICT) for Auditing Assessment Purposes](/files/Documents/iaf-md-4-issue2-version4-2023.pdf)
 
 
-
-
-* [IAF MD 4:2023 - Use of Information and Communication Technology (ICT) for Auditing Assessment Purposes](/files/documents/iaf-md-4-issue2-version4-2023.pdf){:target="_blank"}
-
+* [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and OHSMS](/files/iaf-md-5-issue4-version3-2023.pdf)
 
 
 * [IAF MD 5:2023 - Determination of Audit Time of Quality, Environmental, and Occupational Health & Safety Management Systems](/files/documents/iaf-md-5-issue4-version3-2023.pdf){:target="_blank"}
