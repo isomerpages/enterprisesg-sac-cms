@@ -6,4 +6,4 @@ layout: post
 description: ""
 image: ""
 ---
-[IAF-ISO Joint Communique Sep 2017](/images/press-release/documents/IAF-ISO-Joint-Communique-Sep-2017.PNG)
+![IAF-ISO Joint Communique Sep 2017](/images/press-release/documents/IAF-ISO-Joint-Communique-Sep-2017.PNG)
