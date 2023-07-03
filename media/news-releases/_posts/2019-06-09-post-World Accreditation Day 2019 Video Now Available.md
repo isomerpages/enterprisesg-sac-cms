@@ -8,7 +8,7 @@ image: ""
 ---
 [World Accreditation Day 2019](/images/press-release/documents/WAD-2019-Poster.png)
 
-June 9th 2019 marks World Accreditation Day (WAD2019), a global initiative established by ILAC and IAF to promote the value of accreditation. This year's theme focuses on how accreditation adds value to supply chains. To further support the campaigns for WAD2019, a video has been released.
+June 9th 2019 marks World Accreditation Day (#WAD2019)), a global initiative established by ILAC and IAF to promote the value of accreditation. This year's theme focuses on how accreditation adds value to supply chains. To further support the campaigns for WAD2019, a video has been released.
 
 <div class="bp-youtube">
       <iframe allowfullscreen="" allow="autoplay; encrypted-media" frameborder="0" src="https://www.youtube.com/embed/VB87krtT2Pk" height="315" width="560"></iframe>
