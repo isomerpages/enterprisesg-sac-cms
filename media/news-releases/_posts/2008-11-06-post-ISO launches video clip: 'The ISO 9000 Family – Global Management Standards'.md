@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+With the publication of ISO 9001:2008 imminent, ISO has just launched a [video clip[WMV, 55MB]](http://www.iso.org/sites/multimedia/video/ISO\_9000\_video.wmv) in which users share their perspectives on earlier ISO 9001 editions and other standards in the ISO 9000 family which has become the global benchmark for quality management systems.
+
+[Click to view the video](https://www.youtube.com/watch?feature=player\_embedded&v=oq1Zi\_V4KyE){:target="\_blank"}
