@@ -45,4 +45,5 @@ sections:
       description: Accreditation provides third party assurance that testing,
         inspection and certification are conducted professionally and meet
         globally-recognised standards.
+      image: /images/homepage/info-section.jpg
 ---
