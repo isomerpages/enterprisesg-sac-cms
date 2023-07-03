@@ -42,4 +42,7 @@ sections:
       button: MORE ABOUT SAC
       alt: Image alt text
       url: /about/our-role
+      description: Accreditation provides third party assurance that testing,
+        inspection and certification are conducted professionally and meet
+        globally-recognised standards.
 ---
