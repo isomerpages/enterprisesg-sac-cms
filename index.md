@@ -18,18 +18,18 @@ sections:
       button: Contact Us
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-        - title: Key Highlight Title
-          description: Key Highlight description
-          url: ""
+        - title: SEARCH
+          description: SAC Accredited Organisations
+          url: https://sacinet2.enterprisesg.gov.sg/sacsearch/search
+        - title: ACCREDITATION SERVICES
+          description: ""
+          url: /services/accreditation-services/
+        - title: GET ACCREDITED
+          description: Route to Accreditation
+          url: /services/accreditation-services/apply-for-accreditation
+        - title: OVERVIEW
+          description: Download Documents
+          url: /resources/SAC-documents/
   - infobar:
       title: Infobar title
       subtitle: Subtitle
