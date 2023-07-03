@@ -32,7 +32,7 @@ This standard was published in Dec 2013 and the IAF has endorsed it as a normati
 
 The mandatory document for application of ISO/IEC 17020 is currently being developed by ILAC. This document has been out for comment and is expected to be finalized before the end of the year for implementation.
 
-**SS 590:2013, Singapore Standard for HACCP-Based Food Safety Management Systems – Requirements for any Organisation in the Food Chain**
+**(f) SS 590:2013, Singapore Standard for HACCP-Based Food Safety Management Systems – Requirements for any Organisation in the Food Chain**
  
 This new Singapore Standard published in Jan 2013 will replace the Singapore Accreditation Council (SAC) HACCP Document No. 2, which is the existing document for companies to attain HACCP certification in Singapore. A two-year transition period has been set for the migration of this standard.
  
