@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
-![World Accreditation Day 2018](/images/press-release/documents/world-accreditation-day-2018.png)
+![world-accreditation-day-2018-video-now-available](/images/press-release/documents/world-accreditation-day-2018.png)
 
 World Accreditation Day 2018 focuses on how accreditation delivers a safer world. To support the day, a video has been created to help celebrate the day.
 
