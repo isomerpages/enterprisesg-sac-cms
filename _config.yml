@@ -1,9 +1,9 @@
 title: Title
-url: ""
+url: https://www.sac-accreditation.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#4372d6"
+  primary-color: "#e7131a"
+  secondary-color: "#414042"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -52,3 +52,9 @@ plugins:
 staging: https://staging.dc7rl6brx6vik.amplifyapp.com
 prod: https://master.dc7rl6brx6vik.amplifyapp.com
 resources_name: media
+facebook-pixel: ""
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics: ""
+google_analytics_ga4: ""
+linkedin-insights: ""
