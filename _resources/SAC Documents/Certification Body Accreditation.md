@@ -55,7 +55,7 @@ A certification body must be fully conversant and comply with the relevant stand
 
 
 
-* [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf):target="_blank"}
+* [IAF MD 22:2023 - Application of ISO/IEC 17021-1 for the Certification of OH&SMS](/files/iaf-md-22-issue2-version2-2023.pdf){:target="_blank"}
 
 * [IAF MD 23:2023 - Control of Entities Operating on Behalf of Accredited Management Systems CBs](/files/iaf-md-23-2023.  pdf){:target="_blank"}
 * [IAF MD 24:2021 - Transition Requirements for ISO 50003:2021](/files/documents/IAF-MD-2-Issue-1.pdf){:target="_blank"}
