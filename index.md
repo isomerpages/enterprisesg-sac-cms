@@ -37,9 +37,9 @@ sections:
       button: Button text
       url: /faq/
   - infopic:
-      title: Infopic Title
+      title: What is Accreditation?
       subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      button: MORE ABOUT SAC
       alt: Image alt text
+      url: /about/our-role
 ---
