@@ -16,7 +16,7 @@ The new accreditation areas will provide assurance that the certification of far
 
 The certification is based on the following standards:
 
-\*\*GAP\*\*<br>
+**GAP**<br>
 SS 670 – Specification for good aquaculture practice,<br>
 SS 675 – Specification for good agriculture practice, or<br>
 SS 676 – Specification for good animal husbandry practice for layer farms
