@@ -46,9 +46,9 @@ The phrase, ‘There is no Planet B’ highlights the ever more pressing need fo
 
  
 
-World Accreditation Day 2022 enables the International Accreditation Forum (www.iaf.nu), the International Laboratory Accreditation Cooperation (www.ilac.org) and their members to highlight how accreditation is delivering sustainability in economic development and the environment. IAF and ILAC provide a range of information to explain accreditation’s role in sustainability, economic growth and environment, including further illustrations of its use: \[Economic development – Public Sector Assurance\](https://www.publicsectorassurance.org/sector/economic-development) and \[Environmental Protection – Public Sector Assurance\](https://www.publicsectorassurance.org/sector/environmental-protection).
+World Accreditation Day 2022 enables the International Accreditation Forum (www.iaf.nu), the International Laboratory Accreditation Cooperation (www.ilac.org) and their members to highlight how accreditation is delivering sustainability in economic development and the environment. IAF and ILAC provide a range of information to explain accreditation’s role in sustainability, economic growth and environment, including further illustrations of its use: [Economic development – Public Sector Assurance](https://www.publicsectorassurance.org/sector/economic-development) and [Environmental Protection – Public Sector Assurance](https://www.publicsectorassurance.org/sector/environmental-protection).
 
 
 You may find the World Accreditation Day 2022 brochure and poster below:
-\* \[World Accreditation Day 2022 Brochure\](/files/documents/WAD2022-Brochure-WEB\_V3-1.pdf){:target="\_blank"}
+[World Accreditation Day 2022 Brochure\](/files/documents/WAD2022-Brochure-WEB\_V3-1.pdf){:target="\_blank"}
 \* \[World Accreditation Day 2022 Poster\](/files/documents/WAD2022\_POSTER\_FOR-PRINT.pdf){:target="\_blank"}
