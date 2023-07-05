@@ -17,7 +17,7 @@ If you receive emails that look suspicious:<br>
 • **DO NOT CLICK** on any link(s) in the email body.<br>
 • **DO NOT OPEN** any attachment(s) in the email.<br>
 • **REPORT** any suspicious email received by leveraging the Report Phishing in your Microsoft Outlook or feedback functions in other email platforms/software.<br>
-•** DELETE** all spam email(s).
+• **DELETE** all spam email(s).
 
  
 Please be cautious not to click on suspicious hyperlinks, open suspicious attachments or make any payments to third party entities without first verifying the authenticity and legitimacy of the email received.
