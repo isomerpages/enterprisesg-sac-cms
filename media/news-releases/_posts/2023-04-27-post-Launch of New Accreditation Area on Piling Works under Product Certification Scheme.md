@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-\*\*Launch of New Accreditation Area on Piling Works under Product Certification Scheme\*\*
+**Launch of New Accreditation Area on Piling Works under Product Certification Scheme**
 
 The Singapore Accreditation Council (SAC) is pleased to expand our accreditation scheme for Product Certification to include Specialist Builder for Piling Works Certification in the building and construction sector, with effect from 27 April 2023.
 
