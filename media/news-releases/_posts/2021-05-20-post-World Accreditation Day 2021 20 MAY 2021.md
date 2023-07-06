@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
 ![CC0A95D1-1691-44A4-ADD3-66954D90E0FE.png](/images/press-release/photos/CC0A95D1-1691-44A4-ADD3-66954D90E0FE.png)
 
 09 June 2021 marks World Accreditation Day (#WAD2021), a global initiative established by IAF and ILAC to promote the value of accreditation. This year’s theme is Accreditation: Supporting the Implementation of the Sustainable Development Goals (SDGs).
