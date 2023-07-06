@@ -12,4 +12,4 @@ The accreditation criteria for this new scheme is based on ISO 14065 Greenhouse 
 
 SAC will be conducting a pilot run for this new scheme and is inviting interested organisations that wish to seek accreditation from SAC. If you wish to participate and find out more details on the pilot run, please contact Ms Lee Ham Eng at . The pilot run is for applicants that apply by 31 December 2018. 
  
-Application for accreditation of GHG validation &amp; verification is now open through the SAC accreditation portal, [SACiNet](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="\_blank"}.
+Application for accreditation of GHG validation &amp; verification is now open through the SAC accreditation portal, \[SACiNet\](https://sacinet.enterprisesg.gov.sg/sac/forms/sacinet/sacinet-logon-external.form){:target="\_blank"}.
