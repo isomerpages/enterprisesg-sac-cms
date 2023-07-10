@@ -20,4 +20,4 @@ The revised SAC Technical Notes are available on the SAC website:-
 
 The summary of changes are as follows: 
 
-\* \[Revised SAC Technical Notes\](/files/documents/revised-sac-technical-notes.pdf){:target="\_blank"
+[Revised SAC Technical Notes](/files/documents/revised-sac-technical-notes.pdf){:target="_blank"
