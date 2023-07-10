@@ -7,7 +7,7 @@ layout: post
 description: ""
 image: ""
 ---
-**Discontinuation of the issuance of physical SAC Certificates and transition to electronic versions\*\*
+**Discontinuation of the issuance of physical SAC Certificates and transition to electronic versions**
 
 UPDATES TO THE SAC ACCREDITATION CERTIFICATES
 
