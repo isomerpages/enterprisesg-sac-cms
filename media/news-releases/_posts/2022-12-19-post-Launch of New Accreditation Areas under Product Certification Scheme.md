@@ -21,4 +21,4 @@ Interested applicants will be assessed based on ISO/IEC 17065 and respective SAC
 3.	SAC CT 29- SAC Criteria for Product Certification Bodies (Precast Concrete Products)
 4.	SAC CT 30- SAC Criteria for Specialist Builders (Precast Concrete Products)
 
-Application for accreditation is now open through through the SAC accreditation portal, \[SACiNet\](https://sacinet2.enterprisesg.gov.sg/landing){:target="\_blank}
+Application for accreditation is now open through through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg/landing){:target="_blank}
