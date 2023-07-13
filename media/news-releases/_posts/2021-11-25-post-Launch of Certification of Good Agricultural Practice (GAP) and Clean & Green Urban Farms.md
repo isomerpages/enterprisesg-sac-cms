@@ -21,11 +21,11 @@ SS 670 – Specification for good aquaculture practice,<br>
 SS 675 – Specification for good agriculture practice, or<br>
 SS 676 – Specification for good animal husbandry practice for layer farms
  
-\*\*Clean &amp; Green Urban Farms\*\*<br>
+**Clean &amp; Green Urban Farms**<br>
 SS 661 – Specification for clean and green urban farms – Agriculture
  
 CBs interested to be accredited by SAC for the 4 new scopes will be assessed based on ISO/IEC 17065 and SAC document, CT 26 SAC Criteria for Certification Bodies (GAP and Clean &amp; Green Urban Farms) under the accreditation scheme for product certification body.
 
-Application for accreditation of GAP and Clean &amp; Green Urban Farms certification is now open through the SAC accreditation portal, \[SACiNet\](https://sacinet2.enterprisesg.gov.sg)
+Application for accreditation of GAP and Clean &amp; Green Urban Farms certification is now open through the SAC accreditation portal, [SACiNet](https://sacinet2.enterprisesg.gov.sg)
 
 For more details, please contact your Account Manager.
